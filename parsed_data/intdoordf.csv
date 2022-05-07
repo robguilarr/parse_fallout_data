@@ -1,0 +1,333 @@
+,player,timestamp,shooting_to
+0,106,928.38,Gunny
+1,106,1353.02,Sheriff
+2,106,1225.18,Sheriff
+3,106,1255.20,Sheriff
+4,106,1255.39,Sheriff
+5,106,1463.41,Cornelius
+6,106,1464.60,Cornelius
+7,106,1464.99,Cornelius
+8,106,1464.99,Cornelius
+9,106,1465.21,Cornelius
+10,106,1465.21,Cornelius
+11,106,1465.21,Cornelius
+12,106,1465.40,Cornelius
+13,106,1465.40,Cornelius
+14,106,1465.59,Cornelius
+15,106,1465.59,Cornelius
+16,106,1465.59,Cornelius
+17,106,1465.80,Cornelius
+18,106,1465.80,Cornelius
+19,106,1465.80,Cornelius
+20,106,1466.00,Cornelius
+21,106,1466.00,Cornelius
+22,106,1466.20,Cornelius
+23,106,1466.20,Cornelius
+24,106,1466.20,Cornelius
+25,106,1466.39,Cornelius
+26,106,1466.39,Cornelius
+27,106,1466.60,Cornelius
+28,106,1624.41,Andrew Smith
+29,106,1624.41,Andrew Smith
+30,106,1624.62,Andrew Smith
+31,106,1624.62,Andrew Smith
+32,106,1624.82,Andrew Smith
+33,106,1624.82,Andrew Smith
+34,106,1624.82,Andrew Smith
+35,106,1625.02,Andrew Smith
+36,106,1625.02,Andrew Smith
+37,106,1625.62,Andrew Smith
+38,106,1625.62,Andrew Smith
+39,106,1625.82,Andrew Smith
+40,106,1625.82,Andrew Smith
+41,106,1625.82,Andrew Smith
+42,106,1626.02,Andrew Smith
+43,106,1626.02,Andrew Smith
+44,106,1626.22,Andrew Smith
+45,106,1626.22,Andrew Smith
+46,106,1626.22,Andrew Smith
+47,106,1626.41,Andrew Smith
+48,106,1626.41,Andrew Smith
+49,106,1626.41,Andrew Smith
+50,106,1626.62,Andrew Smith
+51,106,1626.62,Andrew Smith
+52,106,1626.81,Andrew Smith
+53,106,1626.81,Andrew Smith
+54,106,1626.81,Andrew Smith
+55,106,1643.02,Lara Black
+56,106,1643.02,Lara Black
+57,106,1643.21,Lara Black
+58,106,1643.21,Lara Black
+59,106,1643.42,Lara Black
+60,106,1643.42,Alfred R. Fuddington
+61,106,1728.06,Janna Jarlsson
+62,106,1728.25,Janna Jarlsson
+63,106,1728.65,Janna Jarlsson
+64,106,1728.65,Janna Jarlsson
+65,106,1728.85,Janna Jarlsson
+66,106,1728.85,Janna Jarlsson
+67,106,1729.06,Janna Jarlsson
+68,106,1729.06,Janna Jarlsson
+69,106,1729.06,Janna Jarlsson
+70,106,1729.27,Janna Jarlsson
+71,106,1729.27,Janna Jarlsson
+72,106,1729.27,Janna Jarlsson
+73,106,1729.46,Janna Jarlsson
+74,106,1729.46,Janna Jarlsson
+75,106,1764.85,Mr. Walker
+76,106,1764.85,Mr. Walker
+77,106,1765.05,Mr. Walker
+78,106,1765.25,Mr. Walker
+79,106,1765.44,Mr. Walker
+80,106,1765.64,Mr. Walker
+81,106,1765.64,Mr. Walker
+82,106,1765.64,Mr. Walker
+83,106,1765.85,Mr. Walker
+84,106,1766.05,Mr. Walker
+85,106,1766.05,Mr. Walker
+86,106,1766.25,Mr. Walker
+87,106,1766.25,Mr. Walker
+88,106,1766.44,Mr. Walker
+89,106,1766.64,Mr. Walker
+90,106,1766.64,Mr. Walker
+91,106,1768.25,Mayor Walker
+92,106,1768.25,Mayor Walker
+93,106,1768.25,Mayor Walker
+94,106,1768.44,Mayor Walker
+95,106,1768.64,Mayor Walker
+96,106,1768.85,Mayor Walker
+97,106,1768.85,Mayor Walker
+98,106,1768.85,Mayor Walker
+99,106,1769.05,Mayor Walker
+100,106,1769.05,Mayor Walker
+101,106,1769.25,Mayor Walker
+102,106,1769.25,Mayor Walker
+103,106,1769.25,Mayor Walker
+104,106,1769.44,Mayor Walker
+105,106,1769.44,Mayor Walker
+106,106,1769.64,Mayor Walker
+107,188,178.41,Giant Rat
+108,188,1017.88,Goat
+109,188,1018.28,Goat
+110,188,1030.88,Goat
+111,109,1041.97,Giant Rat
+112,109,1044.16,Giant Rat
+113,109,1174.16,Mr. Walker
+114,109,1175.77,Mr. Walker
+115,109,1177.36,Mr. Walker
+116,110,1664.83,Coyote
+117,110,1665.22,Coyote
+118,111,717.39,Giant Rat
+119,111,718.00,Giant Rat
+120,111,718.79,Giant Rat
+121,111,719.40,Giant Rat
+122,111,721.40,Giant Rat
+123,111,1903.82,Charline
+124,111,1904.41,Charline
+125,111,1905.02,Charline
+126,111,1905.62,Charline
+127,111,1906.41,Charline
+128,111,1907.22,Charline
+129,111,1908.01,Charline
+130,111,1909.23,Charline
+131,111,1909.81,Charline
+132,111,1932.61,Feral Mutant
+133,111,1933.21,Feral Mutant
+134,111,1937.62,Feral Mutant
+135,111,1938.22,Feral Mutant
+136,111,1941.41,Feral Mutant
+137,111,1947.42,Feral Mutant
+138,111,1948.22,Feral Mutant
+139,111,1950.83,Feral Mutant
+140,111,1951.42,Feral Mutant
+141,111,1952.22,Feral Mutant
+142,111,1952.83,Feral Mutant
+143,111,1962.02,Gibbons
+144,111,1962.62,Gibbons
+145,111,1963.41,Gibbons
+146,112,1312.70,Cornelius
+147,112,1316.49,Charline
+148,112,1317.09,Charline
+149,112,1317.49,Charline
+150,120,1260.73,Gibbons
+151,120,1293.73,Charline
+152,121,1807.30,Thomas
+153,124,285.86,Giant Rat
+154,126,2300.89,Giant Rat
+155,128,592.10,Giant Rat
+156,128,593.49,Giant Rat
+157,128,604.29,Giant Rat
+158,131,369.18,Giant Rat
+159,131,2533.53,Coyote
+160,132,626.78,Giant Rat
+161,135,1588.02,Goat
+162,136,271.92,Daisy
+163,136,565.27,Alexei
+164,136,567.52,Alexei
+165,136,814.01,Thomas
+166,136,821.20,Thomas
+167,136,1014.01,Margaret
+168,136,1015.81,Margaret
+169,136,1041.82,Margaret
+170,136,1044.03,Margaret
+171,136,1044.67,Margaret
+172,136,1045.23,Margaret
+173,136,1226.79,Gibbons
+174,236,570.69,Gibbons
+175,236,578.82,Gibbons
+176,236,754.26,Bobby D
+177,236,765.81,Bobby D
+178,138,432.27,Mr. Walker
+179,138,483.99,Mr. Walker
+180,138,711.89,Mr. Walker
+181,138,714.09,Mr. Walker
+182,138,822.68,Giant Rat
+183,138,824.67,Giant Rat
+184,138,825.28,Giant Rat
+185,138,825.88,Giant Rat
+186,138,852.67,Mr. Walker
+187,138,854.48,Mr. Walker
+188,139,1045.78,Coyote
+189,139,1047.58,Coyote
+190,139,1047.98,Coyote
+191,139,1073.78,Coyote
+192,139,1074.58,Coyote
+193,139,1074.98,Coyote
+194,139,1075.58,Coyote
+195,139,1076.78,Coyote
+196,139,1077.17,Coyote
+197,139,1080.37,Coyote
+198,139,1081.37,Coyote
+199,139,1081.78,Coyote
+200,139,1114.37,Coyote
+201,139,1114.97,Coyote
+202,140,548.60,Giant Rat
+203,140,549.20,Giant Rat
+204,140,549.81,Giant Rat
+205,140,550.21,Giant Rat
+206,140,1408.81,Giant Rat
+207,140,1415.19,Giant Rat
+208,142,328.00,Mayor Walker
+209,142,817.35,Coyote
+210,142,826.77,Coyote
+211,142,828.14,Coyote
+212,142,828.77,Coyote
+213,142,830.14,Coyote
+214,142,831.55,Coyote
+215,144,740.96,Bean
+216,144,741.57,Bean
+217,144,742.96,Bean
+218,144,699.17,Bean
+219,146,1247.11,Giant Rat
+220,146,2030.68,Coyote
+221,146,2042.18,Coyote
+222,146,2151.87,Coyote
+223,146,2152.15,Coyote
+224,146,2159.33,Coyote
+225,146,2166.10,Coyote
+226,146,2168.87,Coyote
+227,147,2078.70,Coyote
+228,147,2079.52,Coyote
+229,147,2080.91,Coyote
+230,147,2081.52,Coyote
+231,147,2094.29,Coyote
+232,147,2095.29,Coyote
+233,147,2095.88,Coyote
+234,147,2096.49,Coyote
+235,147,2096.88,Coyote
+236,148,674.56,Giant Rat
+237,148,675.36,Giant Rat
+238,148,1097.48,Crank
+239,148,1334.49,Spider
+240,148,1952.83,Coyote
+241,148,1953.83,Coyote
+242,148,1954.62,Coyote
+243,149,729.64,Giant Rat
+244,150,2176.27,Bean
+245,150,2177.47,Bean
+246,150,2189.66,Munz
+247,151,2235.49,Coyote
+248,152,1277.02,Coyote
+249,152,1277.21,Coyote
+250,152,1280.62,Coyote
+251,152,1280.81,Coyote
+252,153,784.10,Giant Rat
+253,153,786.51,Giant Rat
+254,153,2250.87,Coyote
+255,153,2251.26,Coyote
+256,153,2251.66,Coyote
+257,153,2252.07,Coyote
+258,153,2253.46,Coyote
+259,158,367.23,Giant Rat
+260,158,1275.17,Giant Rat
+261,158,1940.04,Giant Rat
+262,159,337.56,Giant Rat
+263,159,338.16,Giant Rat
+264,159,338.77,Giant Rat
+265,159,342.56,Giant Rat
+266,159,1815.17,Giant Rat
+267,159,1932.37,Giant Rat
+268,159,1932.97,Giant Rat
+269,159,1933.57,Giant Rat
+270,160,1896.06,Mr. Walker
+271,160,1898.06,Mr. Walker
+272,160,1898.85,Mr. Walker
+273,160,1900.06,Mr. Walker
+274,162,344.95,Giant Rat
+275,162,2465.28,Bobby D
+276,165,724.68,Giant Rat
+277,165,725.28,Giant Rat
+278,165,2280.17,Giant Rat
+279,165,2280.78,Giant Rat
+280,165,2281.57,Giant Rat
+281,165,2282.18,Giant Rat
+282,165,2301.76,Giant Rat
+283,165,2302.76,Giant Rat
+284,165,2303.37,Giant Rat
+285,165,2303.97,Giant Rat
+286,165,2304.56,Giant Rat
+287,165,2305.17,Giant Rat
+288,165,2305.96,Giant Rat
+289,165,2314.76,Giant Rat
+290,165,2315.36,Giant Rat
+291,165,2323.96,Giant Rat
+292,166,326.26,Giant Rat
+293,167,334.80,Giant Rat
+294,167,338.00,Giant Rat
+295,167,1868.22,Giant Rat
+296,167,1868.82,Giant Rat
+297,170,1491.01,Coyote
+298,171,660.73,Giant Rat
+299,171,661.53,Giant Rat
+300,171,1229.27,Giant Rat
+301,171,1229.67,Giant Rat
+302,171,1253.67,Giant Rat
+303,174,904.55,Giant Rat
+304,174,1957.90,Giant Rat
+305,174,1958.29,Giant Rat
+306,174,1959.70,Giant Rat
+307,174,1959.90,Giant Rat
+308,174,1960.29,Giant Rat
+309,174,1960.70,Giant Rat
+310,174,1961.11,Giant Rat
+311,174,1971.11,Giant Rat
+312,174,1981.51,Giant Rat
+313,174,2033.11,Giant Rat
+314,174,2191.17,Giant Rat
+315,174,2193.74,Giant Rat
+316,178,536.35,Giant Rat
+317,178,1528.26,Coyote
+318,179,843.47,Giant Rat
+319,179,844.06,Giant Rat
+320,179,844.64,Giant Rat
+321,181,1441.35,Margaret
+322,191,495.99,Giant Rat
+323,191,517.39,Giant Rat
+324,191,629.59,Giant Rat
+325,191,630.38,Giant Rat
+326,191,631.60,Giant Rat
+327,191,632.19,Giant Rat
+328,191,632.78,Giant Rat
+329,191,635.38,Giant Rat
+330,191,636.38,Giant Rat
+331,191,643.40,Giant Rat

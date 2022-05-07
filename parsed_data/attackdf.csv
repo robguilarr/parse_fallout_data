@@ -1,0 +1,3408 @@
+,player,timestamp,object_attacked,reason
+0,103,2306.39,Giant Rat,Quest Related
+1,103,2308.39,Giant Rat,Quest Related
+2,103,2312.59,Giant Rat,Quest Related
+3,103,2313.80,Giant Rat,Quest Related
+4,103,2315.20,Giant Rat,Quest Related
+5,103,2316.40,Giant Rat,Quest Related
+6,103,2316.99,Giant Rat,Quest Related
+7,103,2306.39,Giant Rat,Quest Related
+8,103,2308.39,Giant Rat,Quest Related
+9,103,2312.59,Giant Rat,Quest Related
+10,103,2313.80,Giant Rat,Quest Related
+11,103,2315.20,Giant Rat,Quest Related
+12,103,2316.40,Giant Rat,Quest Related
+13,103,2316.99,Giant Rat,Quest Related
+14,105,835.27,Giant Rat,Quest Related
+15,105,843.69,Giant Rat,Quest Related
+16,105,845.29,Giant Rat,Quest Related
+17,106,122.22,Mr. Walker,Friendly NPC
+18,106,124.02,Mr. Walker,Friendly NPC
+19,106,127.02,Mr. Walker,Friendly NPC
+20,106,630.51,Goat,UnMotivated
+21,106,630.91,Goat,UnMotivated
+22,106,631.32,Goat,UnMotivated
+23,106,631.51,Goat,UnMotivated
+24,106,632.31,Goat,UnMotivated
+25,106,634.50,Goat,SelfDefense
+26,106,634.91,Goat,SelfDefense
+27,106,636.91,Goat,SelfDefense
+28,106,637.31,Goat,SelfDefense
+29,106,637.70,Goat,SelfDefense
+30,106,637.91,Goat,SelfDefense
+31,106,914.78,Gunny,Quest Related
+32,106,915.58,Gunny,Quest Related
+33,106,916.20,Gunny,Quest Related
+34,106,917.02,Gunny,Quest Related
+35,106,917.58,Gunny,Quest Related
+36,106,918.78,Gunny,Quest Related
+37,106,919.58,Gunny,Quest Related
+38,106,920.38,Gunny,Quest Related
+39,106,922.38,Gunny,Quest Related
+40,106,923.78,Gunny,Quest Related
+41,106,925.78,Gunny,Quest Related
+42,106,926.38,Gunny,Quest Related
+43,106,926.99,Gunny,Quest Related
+44,106,927.58,Gunny,Quest Related
+45,106,1145.00,Bobby D,Quest Related
+46,106,1145.37,Bobby D,Quest Related
+47,106,1145.80,Bobby D,Quest Related
+48,106,1147.37,Bobby D,Quest Related
+49,106,1147.58,Bobby D,Quest Related
+50,106,1148.00,Bobby D,Quest Related
+51,106,1149.20,Bobby D,Quest Related
+52,106,1149.80,Bobby D,Quest Related
+53,106,1150.00,Bobby D,Quest Related
+54,106,1150.58,Bobby D,Quest Related
+55,106,1150.80,Bobby D,Quest Related
+56,106,1151.20,Bobby D,Quest Related
+57,106,1151.61,Bobby D,Quest Related
+58,106,1152.00,Bobby D,Quest Related
+59,106,1152.37,Bobby D,Quest Related
+60,106,1152.58,Bobby D,Quest Related
+61,106,1153.00,Bobby D,Quest Related
+62,106,1153.37,Bobby D,Quest Related
+63,106,1153.80,Bobby D,Quest Related
+64,106,1154.20,Bobby D,Quest Related
+65,106,1154.58,Bobby D,Quest Related
+66,106,1155.00,Bobby D,Quest Related
+67,106,1155.20,Bobby D,Quest Related
+68,106,1225.78,Merlin,Quest Related
+69,106,1226.35,Merlin,Quest Related
+70,106,1226.98,Merlin,Quest Related
+71,106,1242.98,Merlin,Quest Related
+72,106,1304.77,Sara,Quest Related
+73,106,1306.36,Dough,Quest Related
+74,106,896.17,Slater,Quest Related
+75,106,897.56,Slater,Quest Related
+76,106,1146.59,Merlin,Quest Related
+77,106,1146.98,Merlin,Quest Related
+78,106,1150.59,Merlin,Quest Related
+79,106,1154.78,Merlin,Quest Related
+80,106,1155.18,Merlin,Quest Related
+81,106,1156.56,Merlin,Quest Related
+82,106,1165.18,Merlin,Quest Related
+83,106,1165.56,Merlin,Quest Related
+84,106,1212.74,Bobby D,Quest Related
+85,106,1207.38,Munz,Quest Related
+86,106,1207.77,Munz,Quest Related
+87,106,1207.97,Munz,Quest Related
+88,106,1208.39,Munz,Quest Related
+89,106,1208.77,Munz,Quest Related
+90,106,1209.18,Munz,Quest Related
+91,106,1209.57,Munz,Quest Related
+92,106,1209.97,Munz,Quest Related
+93,106,1263.18,Sara,Quest Related
+94,106,1263.99,Sara,Quest Related
+95,106,1264.58,Sara,Quest Related
+96,106,1265.38,Sara,Quest Related
+97,106,1265.99,Sara,Quest Related
+98,106,1266.79,Sara,Quest Related
+99,106,1351.42,Bean,Quest Related
+100,106,1351.63,Bean,Quest Related
+101,106,1352.22,Bean,Quest Related
+102,106,1352.42,Bean,Quest Related
+103,106,1353.63,Bean,Quest Related
+104,106,1221.78,Ray,Quest Related
+105,106,1222.18,Ray,Quest Related
+106,106,1222.57,Slater,Quest Related
+107,106,1222.98,Dough,Quest Related
+108,106,1223.39,Bean,Quest Related
+109,106,1223.98,Dough,Quest Related
+110,106,1224.40,Dough,Quest Related
+111,106,1224.79,Ray,Quest Related
+112,106,1225.59,Ray,Quest Related
+113,106,1226.00,Bean,Quest Related
+114,106,1226.37,Dough,Quest Related
+115,106,1227.18,Dough,Quest Related
+116,106,1337.19,Bobby D,Quest Related
+117,106,1337.19,Bobby D,Quest Related
+118,106,1337.19,Bobby D,Quest Related
+119,106,1337.19,Bobby D,Quest Related
+120,106,1337.19,Bobby D,Quest Related
+121,106,1337.39,Bobby D,Quest Related
+122,106,1337.39,Bobby D,Quest Related
+123,106,1354.39,Merlin,Quest Related
+124,106,1354.39,Merlin,Quest Related
+125,106,1354.60,Merlin,Quest Related
+126,106,1354.60,Merlin,Quest Related
+127,106,1355.00,Merlin,Quest Related
+128,106,1356.21,Merlin,Quest Related
+129,106,1356.21,Merlin,Quest Related
+130,106,1357.21,Merlin,Quest Related
+131,106,1357.80,Merlin,Quest Related
+132,106,1371.20,Gunny,Quest Related
+133,106,1371.39,Gunny,Quest Related
+134,106,1371.39,Gunny,Quest Related
+135,106,1371.39,Gunny,Quest Related
+136,106,1371.39,Gunny,Quest Related
+137,106,1374.21,Gunny,Quest Related
+138,106,1376.20,Gunny,Quest Related
+139,106,1376.38,Gunny,Quest Related
+140,106,1376.38,Gunny,Quest Related
+141,106,1376.38,Gunny,Quest Related
+142,106,1383.59,Gunny,Quest Related
+143,106,1383.59,Gunny,Quest Related
+144,106,1383.59,Gunny,Quest Related
+145,106,1383.59,Gunny,Quest Related
+146,106,1433.17,Feral Mutant,Friendly NPC
+147,106,1433.96,Feral Mutant,Friendly NPC
+148,106,1434.17,Charline,Friendly NPC
+149,106,1434.17,Charline,Friendly NPC
+150,106,1434.17,Charline,Friendly NPC
+151,106,1434.37,Charline,Friendly NPC
+152,106,1434.37,Charline,Friendly NPC
+153,106,1434.56,Feral Mutant,Friendly NPC
+154,106,1440.95,Feral Mutant,Friendly NPC
+155,106,1441.35,Feral Mutant,Friendly NPC
+156,106,1441.76,Feral Mutant,Friendly NPC
+157,106,1441.76,Feral Mutant,Friendly NPC
+158,106,1441.76,Feral Mutant,Friendly NPC
+159,106,1442.16,Feral Mutant,Friendly NPC
+160,106,1442.16,Cornelius,Friendly NPC
+161,106,1442.36,Feral Mutant,Friendly NPC
+162,106,1442.76,Feral Mutant,Friendly NPC
+163,106,1442.96,Feral Mutant,Friendly NPC
+164,106,1460.42,Cornelius,Friendly NPC
+165,106,1460.59,Cornelius,Friendly NPC
+166,106,1460.59,Cornelius,Friendly NPC
+167,106,1461.20,Cornelius,Friendly NPC
+168,106,1461.39,Cornelius,Friendly NPC
+169,106,1461.39,Cornelius,Friendly NPC
+170,106,1461.60,Cornelius,Friendly NPC
+171,106,1461.60,Cornelius,Friendly NPC
+172,106,1461.60,Cornelius,Friendly NPC
+173,106,1462.20,Cornelius,Friendly NPC
+174,106,1462.79,Cornelius,Friendly NPC
+175,106,1613.00,Alexei,Friendly NPC
+176,106,1613.00,Alexei,Friendly NPC
+177,106,1613.00,Alexei,Friendly NPC
+178,106,1613.00,Alexei,Friendly NPC
+179,106,1613.20,Alexei,Friendly NPC
+180,106,1620.81,Andrew Smith,Friendly NPC
+181,106,1620.81,Andrew Smith,Friendly NPC
+182,106,1620.81,Andrew Smith,Friendly NPC
+183,106,1620.81,Andrew Smith,Friendly NPC
+184,106,1620.81,Andrew Smith,Friendly NPC
+185,106,1634.21,Lara Black,Friendly NPC
+186,106,1634.21,Lara Black,Friendly NPC
+187,106,1634.21,Lara Black,Friendly NPC
+188,106,1634.21,Lara Black,Friendly NPC
+189,106,1634.21,Lara Black,Friendly NPC
+190,106,1637.82,Alfred R. Fuddington,Friendly NPC
+191,106,1640.63,Alfred R. Fuddington,Friendly NPC
+192,106,1640.82,Alfred R. Fuddington,Friendly NPC
+193,106,1642.61,Alfred R. Fuddington,Friendly NPC
+194,106,1642.61,Alfred R. Fuddington,Friendly NPC
+195,106,1659.21,David Johnson,Friendly NPC
+196,106,1659.21,David Johnson,Friendly NPC
+197,106,1659.41,David Johnson,Friendly NPC
+198,106,1659.62,David Johnson,Friendly NPC
+199,106,1659.62,David Johnson,Friendly NPC
+200,106,1659.83,David Johnson,Friendly NPC
+201,106,1659.83,David Johnson,Friendly NPC
+202,106,1660.02,David Johnson,Friendly NPC
+203,106,1660.41,Daisy,UnMotivated
+204,106,1660.81,Daisy,UnMotivated
+205,106,1661.01,David Johnson,Friendly NPC
+206,106,1661.64,Daisy,UnMotivated
+207,106,1664.02,Bob Barter,Friendly NPC
+208,106,1677.62,Bob Barter,Friendly NPC
+209,106,1677.62,Bob Barter,Friendly NPC
+210,106,1677.62,Bob Barter,Friendly NPC
+211,106,1678.82,Bob Barter,Friendly NPC
+212,106,1678.82,Bob Barter,Friendly NPC
+213,106,1679.01,Bob Barter,Friendly NPC
+214,106,1680.02,Bob Barter,Friendly NPC
+215,106,1680.02,Bob Barter,Friendly NPC
+216,106,1680.02,Bob Barter,Friendly NPC
+217,106,1680.21,Bob Barter,Friendly NPC
+218,106,1680.21,Bob Barter,Friendly NPC
+219,106,1680.21,Bob Barter,Friendly NPC
+220,106,1680.41,Bob Barter,Friendly NPC
+221,106,1683.22,Tim Tinker,Friendly NPC
+222,106,1683.22,Tim Tinker,Friendly NPC
+223,106,1709.05,Margaret,Friendly NPC
+224,106,1709.05,Margaret,Friendly NPC
+225,106,1712.05,Margaret,Friendly NPC
+226,106,1712.46,Margaret,Friendly NPC
+227,106,1715.85,Thomas,Friendly NPC
+228,106,1715.85,Thomas,Friendly NPC
+229,106,1715.85,Thomas,Friendly NPC
+230,106,1715.85,Thomas,Friendly NPC
+231,106,1715.85,Thomas,Friendly NPC
+232,106,1724.25,Janna Jarlsson,Friendly NPC
+233,106,1724.46,Janna Jarlsson,Friendly NPC
+234,106,1724.46,Janna Jarlsson,Friendly NPC
+235,106,1724.66,Janna Jarlsson,Friendly NPC
+236,106,1724.86,Janna Jarlsson,Friendly NPC
+237,106,1724.86,Janna Jarlsson,Friendly NPC
+238,106,1725.05,Janna Jarlsson,Friendly NPC
+239,106,1725.05,Janna Jarlsson,Friendly NPC
+240,106,1725.05,Janna Jarlsson,Friendly NPC
+241,106,1725.26,Janna Jarlsson,Friendly NPC
+242,106,1725.26,Janna Jarlsson,Friendly NPC
+243,106,1725.47,Janna Jarlsson,Friendly NPC
+244,106,1725.85,Janna Jarlsson,Friendly NPC
+245,106,1726.05,Janna Jarlsson,Friendly NPC
+246,106,1726.66,Janna Jarlsson,Friendly NPC
+247,106,1726.66,Janna Jarlsson,Friendly NPC
+248,106,1760.63,Mayor Walker,Friendly NPC
+249,106,1760.63,Mayor Walker,Friendly NPC
+250,106,1760.63,Mayor Walker,Friendly NPC
+251,106,1760.83,Mayor Walker,Friendly NPC
+252,106,1760.83,Mayor Walker,Friendly NPC
+253,106,1760.83,Mayor Walker,Friendly NPC
+254,106,1761.03,Mayor Walker,Friendly NPC
+255,106,1761.03,Mayor Walker,Friendly NPC
+256,106,1761.03,Mayor Walker,Friendly NPC
+257,106,1761.23,Mayor Walker,Friendly NPC
+258,106,1804.04,Paul,Friendly NPC
+259,106,1804.04,Paul,Friendly NPC
+260,106,1804.24,Paul,Friendly NPC
+261,106,1804.24,Paul,Friendly NPC
+262,106,1804.24,Paul,Friendly NPC
+263,106,1804.43,Paul,Friendly NPC
+264,106,1804.43,Paul,Friendly NPC
+265,106,1804.63,Paul,Friendly NPC
+266,106,1804.63,Paul,Friendly NPC
+267,106,1804.83,Paul,Friendly NPC
+268,106,1805.04,Paul,Friendly NPC
+269,106,1805.04,Paul,Friendly NPC
+270,106,1805.04,Paul,Friendly NPC
+271,106,1805.24,Paul,Friendly NPC
+272,106,1805.24,Paul,Friendly NPC
+273,106,1805.83,Paul,Friendly NPC
+274,106,1806.04,Paul,Friendly NPC
+275,106,1806.04,Paul,Friendly NPC
+276,106,1806.24,Paul,Friendly NPC
+277,106,1806.24,Paul,Friendly NPC
+278,106,1806.43,Paul,Friendly NPC
+279,106,1806.43,Paul,Friendly NPC
+280,106,1806.63,Paul,Friendly NPC
+281,106,1806.63,Paul,Friendly NPC
+282,106,1806.83,Paul,Friendly NPC
+283,106,1806.83,Paul,Friendly NPC
+284,106,1807.04,Paul,Friendly NPC
+285,106,1807.04,Paul,Friendly NPC
+286,106,1807.24,Paul,Friendly NPC
+287,106,1807.24,Paul,Friendly NPC
+288,106,1807.24,Paul,Friendly NPC
+289,106,1807.63,Paul,Friendly NPC
+290,106,1807.63,Paul,Friendly NPC
+291,106,1807.63,Paul,Friendly NPC
+292,106,1807.83,Paul,Friendly NPC
+293,106,1807.83,Paul,Friendly NPC
+294,106,1808.04,Paul,Friendly NPC
+295,106,1808.04,Paul,Friendly NPC
+296,106,1808.04,Paul,Friendly NPC
+297,106,1808.24,Paul,Friendly NPC
+298,106,1808.24,Paul,Friendly NPC
+299,106,1808.24,Paul,Friendly NPC
+300,106,1808.43,Paul,Friendly NPC
+301,106,1808.43,Paul,Friendly NPC
+302,106,1808.63,Paul,Friendly NPC
+303,106,1808.63,Paul,Friendly NPC
+304,106,1808.63,Paul,Friendly NPC
+305,106,1809.04,Paul,Friendly NPC
+306,106,1809.04,Paul,Friendly NPC
+307,106,1809.24,Paul,Friendly NPC
+308,106,1809.43,Paul,Friendly NPC
+309,106,1809.43,Paul,Friendly NPC
+310,106,1809.63,Paul,Friendly NPC
+311,106,1809.63,Paul,Friendly NPC
+312,106,1809.63,Paul,Friendly NPC
+313,106,1809.83,Paul,Friendly NPC
+314,106,1809.83,Paul,Friendly NPC
+315,106,1810.04,Paul,Friendly NPC
+316,106,1810.24,Paul,Friendly NPC
+317,106,1810.24,Paul,Friendly NPC
+318,106,1810.43,Paul,Friendly NPC
+319,106,1810.43,Paul,Friendly NPC
+320,106,1810.63,Paul,Friendly NPC
+321,106,1810.63,Paul,Friendly NPC
+322,106,1810.63,Paul,Friendly NPC
+323,106,1810.83,Paul,Friendly NPC
+324,106,1810.83,Paul,Friendly NPC
+325,106,1811.04,Paul,Friendly NPC
+326,106,1811.04,Paul,Friendly NPC
+327,106,1811.24,Paul,Friendly NPC
+328,106,1811.24,Paul,Friendly NPC
+329,106,1811.44,Paul,Friendly NPC
+330,106,1813.83,Paul,Friendly NPC
+331,106,1813.83,Paul,Friendly NPC
+332,106,1814.04,Paul,Friendly NPC
+333,106,1814.04,Paul,Friendly NPC
+334,106,1814.24,Paul,Friendly NPC
+335,106,1814.24,Paul,Friendly NPC
+336,106,1814.63,Paul,Friendly NPC
+337,106,1814.63,Paul,Friendly NPC
+338,106,1814.83,Paul,Friendly NPC
+339,106,1815.24,Paul,Friendly NPC
+340,106,1815.24,Paul,Friendly NPC
+341,106,1815.24,Paul,Friendly NPC
+342,106,1815.43,Paul,Friendly NPC
+343,106,1824.64,Paul,Friendly NPC
+344,106,1830.05,Paul,Friendly NPC
+345,106,1830.64,Paul,Friendly NPC
+346,106,1831.24,Paul,Friendly NPC
+347,106,1839.03,Paul,Friendly NPC
+348,106,1925.02,Richard Wood,Friendly NPC
+349,106,1927.84,Richard Wood,Friendly NPC
+350,106,1932.65,Richard Wood,Friendly NPC
+351,106,1945.64,Eric Oxton,Friendly NPC
+352,106,1959.86,Eric Oxton,Friendly NPC
+353,106,1961.05,Eric Oxton,Friendly NPC
+354,106,2015.70,Ann,Friendly NPC
+355,106,2016.31,Ann,Friendly NPC
+356,106,2016.71,Ann,Friendly NPC
+357,106,2017.11,Ann,Friendly NPC
+358,108,477.57,Ann,Friendly NPC
+359,108,664.81,Spider,Quest Related
+360,108,666.41,Spider,Quest Related
+361,108,667.00,Spider,Quest Related
+362,108,667.60,Spider,Quest Related
+363,108,668.21,Spider,Quest Related
+364,108,669.64,Spider,Quest Related
+365,108,671.85,Spider,Quest Related
+366,108,672.44,Spider,Quest Related
+367,108,673.25,Spider,Quest Related
+368,108,673.84,Spider,Quest Related
+369,108,675.25,Spider,Quest Related
+370,108,676.04,Spider,Quest Related
+371,108,678.83,Wild Bill,Quest Related
+372,188,169.01,Giant Rat,Quest Related
+373,188,170.40,Giant Rat,Quest Related
+374,188,172.82,Giant Rat,Quest Related
+375,188,173.40,Giant Rat,Quest Related
+376,188,634.60,Slater,SelfDefense
+377,188,634.96,Slater,SelfDefense
+378,188,635.37,Slater,SelfDefense
+379,188,635.57,Slater,SelfDefense
+380,188,635.77,Slater,SelfDefense
+381,188,636.37,Slater,SelfDefense
+382,188,636.77,Dough,SelfDefense
+383,188,637.16,Slater,SelfDefense
+384,188,637.37,Slater,SelfDefense
+385,188,638.37,Slater,SelfDefense
+386,188,638.77,Slater,SelfDefense
+387,188,638.96,Slater,SelfDefense
+388,188,639.16,Slater,SelfDefense
+389,188,639.35,Slater,SelfDefense
+390,188,602.55,Slater,SelfDefense
+391,188,603.35,Slater,SelfDefense
+392,188,604.55,Slater,SelfDefense
+393,188,604.93,Slater,SelfDefense
+394,188,608.55,Slater,SelfDefense
+395,188,608.72,Slater,SelfDefense
+396,188,609.93,Slater,SelfDefense
+397,188,610.13,Slater,SelfDefense
+398,188,610.72,Slater,SelfDefense
+399,188,611.72,Slater,SelfDefense
+400,188,612.13,Slater,SelfDefense
+401,188,612.93,Slater,SelfDefense
+402,188,614.36,Slater,SelfDefense
+403,188,603.35,Slater,SelfDefense
+404,188,603.55,Slater,SelfDefense
+405,188,603.96,Slater,SelfDefense
+406,188,604.35,Slater,SelfDefense
+407,188,604.76,Slater,SelfDefense
+408,188,604.96,Slater,SelfDefense
+409,188,605.13,Slater,SelfDefense
+410,188,605.55,Slater,SelfDefense
+411,188,605.76,Slater,SelfDefense
+412,188,607.16,Slater,SelfDefense
+413,188,607.96,Dough,SelfDefense
+414,188,608.15,Dough,SelfDefense
+415,188,666.16,Dough,SelfDefense
+416,188,666.35,Dough,SelfDefense
+417,188,747.39,Richard Wood,Friendly NPC
+418,188,748.18,Richard Wood,Friendly NPC
+419,188,748.39,Richard Wood,Friendly NPC
+420,188,749.62,Richard Wood,Friendly NPC
+421,188,749.81,Richard Wood,Friendly NPC
+422,188,752.78,Eric Oxton,Friendly NPC
+423,188,755.41,Eric Oxton,Friendly NPC
+424,188,761.00,Eric Oxton,Friendly NPC
+425,188,765.02,Eric Oxton,Friendly NPC
+426,188,765.41,Eric Oxton,Friendly NPC
+427,188,774.41,Eric Oxton,Friendly NPC
+428,188,775.61,Eric Oxton,Friendly NPC
+429,188,918.28,Bob Barter,Friendly NPC
+430,188,919.66,Bob Barter,Friendly NPC
+431,188,919.86,Bob Barter,Friendly NPC
+432,188,921.86,Bob Barter,Friendly NPC
+433,188,922.66,Bob Barter,Friendly NPC
+434,188,923.07,Bob Barter,Friendly NPC
+435,188,923.46,Bob Barter,Friendly NPC
+436,188,923.66,Bob Barter,Friendly NPC
+437,188,923.86,Bob Barter,Friendly NPC
+438,188,971.08,Tim Tinker,Friendly NPC
+439,188,971.46,Tim Tinker,Friendly NPC
+440,188,971.69,Tim Tinker,Friendly NPC
+441,188,1013.88,Goat,UnMotivated
+442,188,1014.28,Goat,UnMotivated
+443,188,1015.48,Goat,UnMotivated
+444,188,1015.88,Goat,UnMotivated
+445,188,1058.52,Alexei,Friendly NPC
+446,188,1061.12,Alexei,Friendly NPC
+447,188,1061.52,Alexei,Friendly NPC
+448,188,1062.52,Alexei,Friendly NPC
+449,188,1065.90,Alexei,Friendly NPC
+450,188,1069.73,Alexei,Friendly NPC
+451,188,1083.12,Alexei,Friendly NPC
+452,188,1083.52,Alexei,Friendly NPC
+453,188,1083.92,Alexei,Friendly NPC
+454,188,1084.73,Alexei,Friendly NPC
+455,109,984.38,Giant Rat,Quest Related
+456,109,1004.97,Giant Rat,Quest Related
+457,109,1006.57,Giant Rat,Quest Related
+458,109,1007.97,Giant Rat,Quest Related
+459,109,1030.17,Giant Rat,Quest Related
+460,109,1038.57,Giant Rat,Quest Related
+461,109,1085.16,Mr. Walker,Friendly NPC
+462,109,1088.18,Mr. Walker,Friendly NPC
+463,109,1494.76,David Johnson,Friendly NPC
+464,109,2032.77,Slater,Quest Related
+465,109,2035.57,Slater,Quest Related
+466,109,2039.77,Slater,Quest Related
+467,109,2040.14,Slater,Quest Related
+468,109,2040.57,Slater,Quest Related
+469,109,2040.77,Slater,Quest Related
+470,109,2032.77,Slater,Quest Related
+471,109,2037.38,Slater,Quest Related
+472,109,2037.97,Slater,Quest Related
+473,109,2065.16,Slater,Quest Related
+474,109,2065.75,Slater,Quest Related
+475,109,2037.81,Slater,Quest Related
+476,109,2037.55,Slater,Quest Related
+477,109,2038.35,Slater,Quest Related
+478,109,2038.55,Slater,Quest Related
+479,109,2039.35,Slater,Quest Related
+480,109,2029.36,Slater,Quest Related
+481,109,2091.57,Slater,Quest Related
+482,109,2034.94,Slater,Quest Related
+483,109,2035.36,Slater,Quest Related
+484,109,2037.57,Slater,Quest Related
+485,109,2037.94,Slater,Quest Related
+486,109,2038.35,Slater,Quest Related
+487,109,2038.74,Slater,Quest Related
+488,109,2039.36,Slater,Quest Related
+489,109,2040.15,Slater,Quest Related
+490,109,2039.35,Slater,Quest Related
+491,109,2039.75,Slater,Quest Related
+492,109,2040.94,Slater,Quest Related
+493,109,2041.35,Slater,Quest Related
+494,109,2043.55,Slater,Quest Related
+495,109,2044.35,Slater,Quest Related
+496,109,2044.75,Slater,Quest Related
+497,109,2045.35,Slater,Quest Related
+498,109,2045.55,Slater,Quest Related
+499,109,2046.15,Slater,Quest Related
+500,109,2046.55,Slater,Quest Related
+501,109,2046.96,Slater,Quest Related
+502,109,2047.15,Slater,Quest Related
+503,109,2047.96,Slater,Quest Related
+504,109,2048.35,Slater,Quest Related
+505,109,2048.75,Slater,Quest Related
+506,109,2049.15,Slater,Quest Related
+507,109,2049.35,Slater,Quest Related
+508,109,2049.75,Slater,Quest Related
+509,109,2050.15,Slater,Quest Related
+510,109,2039.76,Slater,Quest Related
+511,109,2040.76,Slater,Quest Related
+512,110,386.26,Giant Rat,Quest Related
+513,110,387.64,Giant Rat,Quest Related
+514,110,389.65,Giant Rat,Quest Related
+515,110,1596.23,Coyote,SelfDefense
+516,110,1597.62,Coyote,SelfDefense
+517,110,1597.82,Coyote,SelfDefense
+518,110,1602.43,Coyote,SelfDefense
+519,110,1602.63,Coyote,SelfDefense
+520,110,1605.25,Coyote,SelfDefense
+521,110,1605.42,Coyote,SelfDefense
+522,110,1606.03,Coyote,SelfDefense
+523,110,1606.64,Coyote,SelfDefense
+524,110,1607.03,Coyote,SelfDefense
+525,110,1607.42,Coyote,SelfDefense
+526,110,1607.83,Coyote,SelfDefense
+527,110,1658.41,Coyote,SelfDefense
+528,110,1659.22,Coyote,SelfDefense
+529,110,1660.24,Coyote,SelfDefense
+530,110,1661.43,Coyote,SelfDefense
+531,110,1696.21,Coyote,SelfDefense
+532,110,1696.41,Coyote,SelfDefense
+533,110,1697.21,Coyote,SelfDefense
+534,110,1697.62,Coyote,SelfDefense
+535,110,1698.01,Coyote,SelfDefense
+536,110,1698.41,Coyote,SelfDefense
+537,110,1711.62,Coyote,SelfDefense
+538,110,1716.41,Coyote,SelfDefense
+539,110,1716.85,Coyote,SelfDefense
+540,110,1717.21,Coyote,SelfDefense
+541,110,1717.62,Coyote,SelfDefense
+542,110,2471.38,Mel,SelfDefense
+543,110,2473.12,Mel,SelfDefense
+544,110,2475.35,Mel,SelfDefense
+545,110,2476.13,Mel,SelfDefense
+546,110,2479.12,Mel,SelfDefense
+547,110,2479.90,Mel,SelfDefense
+548,110,2481.60,Mel,SelfDefense
+549,110,2481.90,Mel,SelfDefense
+550,110,2646.65,Mel,SelfDefense
+551,110,2654.85,Mel,SelfDefense
+552,110,2656.45,Mel,SelfDefense
+553,110,2657.45,Mel,SelfDefense
+554,111,714.80,Giant Rat,SelfDefense
+555,111,1609.17,Slater,UnMotivated 
+556,111,1609.96,Slater,UnMotivated 
+557,111,1610.56,Slater,UnMotivated 
+558,111,1611.17,Slater,UnMotivated 
+559,111,1611.76,Slater,UnMotivated 
+560,111,1613.76,Slater,UnMotivated 
+561,111,1614.37,Slater,UnMotivated 
+562,111,1614.96,Slater,UnMotivated 
+563,111,1615.76,Slater,UnMotivated 
+564,111,1616.37,Slater,UnMotivated 
+565,111,1616.96,Slater,UnMotivated 
+566,111,1619.17,Slater,UnMotivated 
+567,111,1620.57,Slater,UnMotivated 
+568,111,1623.17,Slater,UnMotivated 
+569,111,1625.96,Slater,UnMotivated 
+570,111,1626.76,Slater,UnMotivated 
+571,111,1627.37,Slater,UnMotivated 
+572,111,1627.96,Slater,UnMotivated 
+573,111,1628.76,Slater,UnMotivated 
+574,111,1629.37,Slater,UnMotivated 
+575,111,1630.76,Slater,UnMotivated 
+576,111,1583.16,Sara,SelfDefense
+577,111,1583.96,Sara,SelfDefense
+578,111,1584.75,Sara,SelfDefense
+579,111,1585.36,Sara,SelfDefense
+580,111,1587.57,Ray,SelfDefense
+581,111,1588.16,Ray,SelfDefense
+582,111,1588.75,Ray,SelfDefense
+583,111,1589.57,Ray,SelfDefense
+584,111,1590.16,Ray,SelfDefense
+585,111,1596.57,Sara,SelfDefense
+586,111,1597.36,Sara,SelfDefense
+587,111,1597.96,Sara,SelfDefense
+588,111,1599.78,Sara,SelfDefense
+589,111,1540.95,Slater,UnMotivated 
+590,111,1544.36,Slater,UnMotivated 
+591,111,1544.95,Slater,UnMotivated 
+592,111,1546.36,Slater,UnMotivated 
+593,111,1546.95,Slater,UnMotivated 
+594,111,1547.77,Slater,UnMotivated 
+595,111,1548.95,Slater,UnMotivated 
+596,111,1549.80,Slater,UnMotivated 
+597,111,1552.56,Slater,UnMotivated 
+598,111,1881.00,Charline,Friendly NPC
+599,111,1883.61,Charline,Friendly NPC
+600,111,1884.20,Charline,Friendly NPC
+601,111,1885.61,Charline,Friendly NPC
+602,111,1901.41,Feral Mutant,Friendly NPC
+603,111,1903.21,Gibbons,SelfDefense
+604,111,1916.42,Feral Mutant,Friendly NPC
+605,111,1919.81,Feral Mutant,Friendly NPC
+606,111,1921.81,Feral Mutant,Friendly NPC
+607,111,1922.42,Feral Mutant,Friendly NPC
+608,111,1923.01,Feral Mutant,Friendly NPC
+609,111,1924.42,Feral Mutant,Friendly NPC
+610,111,1932.02,Cornelius,Friendly NPC
+611,111,2375.99,Cornelius,Friendly NPC
+612,111,2376.79,Cornelius,Friendly NPC
+613,111,2566.16,Coyote,SelfDefense
+614,111,2568.36,Coyote,SelfDefense
+615,111,2568.95,Coyote,SelfDefense
+616,111,2569.77,Coyote,SelfDefense
+617,111,2571.16,Coyote,SelfDefense
+618,111,2571.76,Coyote,SelfDefense
+619,111,2591.95,Coyote,SelfDefense
+620,111,2593.94,Coyote,SelfDefense
+621,111,2624.55,Coyote,SelfDefense
+622,111,2625.14,Coyote,SelfDefense
+623,111,2625.75,Coyote,SelfDefense
+624,111,2626.34,Coyote,SelfDefense
+625,112,346.67,Giant Rat,Quest Related
+626,112,348.07,Giant Rat,Quest Related
+627,112,350.48,Giant Rat,Quest Related
+628,112,1299.69,Gibbons,SelfDefense
+629,112,1302.69,Charline,Friendly NPC
+630,112,1303.90,Gibbons,SelfDefense
+631,112,1304.29,Charline,Friendly NPC
+632,112,1305.10,Gibbons,SelfDefense
+633,112,1306.10,Cornelius,Friendly NPC
+634,112,1306.50,Charline,Friendly NPC
+635,112,1309.29,Cornelius,Friendly NPC
+636,112,1309.69,Cornelius,Friendly NPC
+637,112,1310.49,Cornelius,Friendly NPC
+638,112,1310.90,Cornelius,Friendly NPC
+639,112,1311.49,Cornelius,Friendly NPC
+640,112,1311.89,Cornelius,Friendly NPC
+641,112,1316.09,Feral Mutant,Friendly NPC
+642,112,1318.89,Feral Mutant,Friendly NPC
+643,112,1321.29,Feral Mutant,Friendly NPC
+644,112,1322.49,Feral Mutant,Friendly NPC
+645,112,1322.90,Feral Mutant,Friendly NPC
+646,112,1875.41,Spider,Quest Related
+647,112,1875.58,Spider,Quest Related
+648,112,1875.78,Spider,Quest Related
+649,112,1876.41,Spider,Quest Related
+650,112,1876.58,Spider,Quest Related
+651,112,1876.78,Spider,Quest Related
+652,112,1877.22,Stu,Quest Related
+653,112,1877.41,Stu,Quest Related
+654,112,1878.61,Spider,Quest Related
+655,112,1878.80,Spider,Quest Related
+656,112,1878.80,Spider,Quest Related
+657,112,1879.01,Spider,Quest Related
+658,112,1880.63,Spider,Quest Related
+659,113,224.04,Giant Rat,Quest Related
+660,113,225.05,Giant Rat,Quest Related
+661,113,225.44,Giant Rat,Quest Related
+662,113,226.45,Giant Rat,Quest Related
+663,113,1057.42,Slater,Quest Related
+664,113,1058.03,Slater,Quest Related
+665,113,1058.42,Slater,Quest Related
+666,113,1058.83,Slater,Quest Related
+667,113,1059.22,Slater,Quest Related
+668,113,1059.62,Slater,Quest Related
+669,113,1060.03,Slater,Quest Related
+670,113,1066.83,Slater,Quest Related
+671,113,1067.22,Dough,Quest Related
+672,113,1067.62,Dough,Quest Related
+673,113,1069.62,Dough,Quest Related
+674,113,1070.03,Dough,Quest Related
+675,113,1074.22,Bean,Quest Related
+676,113,1074.62,Bean,Quest Related
+677,113,1075.03,Bean,Quest Related
+678,113,1075.83,Bean,Quest Related
+679,113,1076.23,Bean,Quest Related
+680,113,1076.42,Bean,Quest Related
+681,113,1076.83,Bean,Quest Related
+682,113,1077.23,Bean,Quest Related
+683,113,1639.56,Giant Rat,SelfDefense
+684,113,2113.83,Bobby D,Quest Related
+685,113,2226.80,Bobby D,Quest Related
+686,113,2227.00,Bobby D,Quest Related
+687,113,2227.39,Bobby D,Quest Related
+688,113,2228.39,Bobby D,Quest Related
+689,113,2228.59,Bobby D,Quest Related
+690,113,2229.00,Bobby D,Quest Related
+691,113,2229.39,Bobby D,Quest Related
+692,113,2239.19,Gunny,Quest Related
+693,113,2239.58,Gunny,Quest Related
+694,113,2239.99,Gunny,Quest Related
+695,113,2240.39,Gunny,Quest Related
+696,113,2240.78,Gunny,Quest Related
+697,113,2241.99,Gunny,Quest Related
+698,113,2242.39,Gunny,Quest Related
+699,113,2242.78,Gunny,Quest Related
+700,113,2247.99,Gunny,Quest Related
+701,114,374.47,Giant Rat,Quest Related
+702,114,374.87,Giant Rat,Quest Related
+703,114,375.66,Giant Rat,Quest Related
+704,114,375.87,Giant Rat,Quest Related
+705,114,941.07,Giant Rat,SelfDefense
+706,114,942.07,Giant Rat,SelfDefense
+707,114,1014.49,Giant Rat,UnMotivated
+708,114,1014.69,Giant Rat,UnMotivated
+709,114,2299.45,Coyote,SelfDefense
+710,114,2302.00,Coyote,SelfDefense
+711,114,2303.78,Coyote,SelfDefense
+712,114,2305.79,Coyote,SelfDefense
+713,114,2307.54,Coyote,SelfDefense
+714,114,2308.43,Coyote,SelfDefense
+715,114,2361.01,Coyote,UnMotivated
+716,114,2369.13,Coyote,SelfDefense
+717,114,2370.24,Coyote,SelfDefense
+718,114,2370.79,Coyote,SelfDefense
+719,114,2371.16,Coyote,SelfDefense
+720,114,2371.73,Coyote,SelfDefense
+721,114,2409.13,Coyote,UnMotivated
+722,114,2410.31,Coyote,UnMotivated
+723,114,2410.70,Coyote,UnMotivated
+724,114,2411.24,Coyote,UnMotivated
+725,114,2411.79,Coyote,UnMotivated
+726,114,2413.79,Coyote,SelfDefense
+727,114,2414.09,Coyote,SelfDefense
+728,114,2415.26,Coyote,SelfDefense
+729,114,2415.81,Coyote,SelfDefense
+730,114,2473.60,Coyote,SelfDefense
+731,114,2476.46,Coyote,SelfDefense
+732,114,2476.94,Coyote,SelfDefense
+733,114,2482.23,Coyote,SelfDefense
+734,114,2944.80,Mel,SelfDefense
+735,114,2948.21,Mel,SelfDefense
+736,114,3034.89,Dough,UnMotivated 
+737,114,3035.28,Dough,SelfDefense
+738,114,3036.08,Dough,SelfDefense
+739,114,3037.48,Dough,SelfDefense
+740,114,3046.50,Slater,SelfDefense
+741,114,3047.19,Slater,SelfDefense
+742,114,3049.46,Slater,SelfDefense
+743,117,2229.26,Giant Rat,SelfDefense
+744,117,2491.62,Spider,Quest Related
+745,117,2501.42,Spider,Quest Related
+746,117,2502.21,Spider,Quest Related
+747,117,2503.21,Spider,Quest Related
+748,118,484.43,David Johnson,Friendly NPC
+749,118,485.04,Daisy,UnMotivated
+750,118,492.46,David Johnson,Friendly NPC
+751,118,498.22,David Johnson,Friendly NPC
+752,118,1699.57,Spider,Quest Related
+753,118,1700.37,Spider,Quest Related
+754,118,1700.96,Spider,Quest Related
+755,118,1701.76,Spider,Quest Related
+756,118,1703.76,Spider,Quest Related
+757,118,1704.37,Spider,Quest Related
+758,118,1704.96,Spider,Quest Related
+759,118,1705.76,Spider,Quest Related
+760,118,1706.37,Spider,Quest Related
+761,118,1707.76,Spider,Quest Related
+762,118,1708.37,Spider,Quest Related
+763,118,1709.16,Spider,Quest Related
+764,118,1709.76,Spider,Quest Related
+765,118,1710.55,Spider,Quest Related
+766,118,1013.66,Slater,UnMotivated 
+767,118,1014.26,Slater,SelfDefense
+768,118,1015.05,Slater,SelfDefense
+769,118,1015.87,Slater,SelfDefense
+770,118,1016.87,Slater,SelfDefense
+771,118,1701.46,Paul,Friendly NPC
+772,118,1707.25,Paul,Friendly NPC
+773,118,1708.07,Paul,Friendly NPC
+774,118,1718.18,Paul,Friendly NPC
+775,118,1721.35,Paul,Friendly NPC
+776,118,1724.23,Paul,Friendly NPC
+777,118,1727.31,Paul,Friendly NPC
+778,118,1730.87,Paul,Friendly NPC
+779,118,1734.05,Paul,Friendly NPC
+780,118,1738.07,Paul,Friendly NPC
+781,118,1742.09,Paul,Friendly NPC
+782,118,1745.86,Paul,Friendly NPC
+783,118,1750.44,Paul,Friendly NPC
+784,118,1754.78,Paul,Friendly NPC
+785,118,1759.02,Paul,Friendly NPC
+786,118,1762.98,Paul,Friendly NPC
+787,118,1778.10,Paul,Friendly NPC
+788,118,1781.89,Paul,Friendly NPC
+789,118,1782.50,Paul,Friendly NPC
+790,118,1783.10,Paul,Friendly NPC
+791,118,1783.91,Paul,Friendly NPC
+792,119,648.61,Giant Rat,Quest Related
+793,119,650.81,Giant Rat,Quest Related
+794,119,652.81,Giant Rat,Quest Related
+795,119,655.03,Giant Rat,Quest Related
+796,120,1048.32,Slater,UnMotivated 
+797,120,1049.91,Slater,UnMotivated 
+798,120,1226.71,Charline,Friendly NPC
+799,120,1228.31,Gibbons,SelfDefense
+800,120,1229.13,Charline,Friendly NPC
+801,120,1231.14,Charline,Friendly NPC
+802,120,1233.74,Cornelius,Friendly NPC
+803,120,1245.13,Cornelius,Friendly NPC
+804,120,1251.74,Feral Mutant,Friendly NPC
+805,120,1252.33,Feral Mutant,Friendly NPC
+806,120,1268.33,Feral Mutant,Friendly NPC
+807,120,1273.34,Feral Mutant,Friendly NPC
+808,120,1274.74,Feral Mutant,Friendly NPC
+809,120,1275.34,Feral Mutant,Friendly NPC
+810,120,1276.54,Feral Mutant,Friendly NPC
+811,120,1303.73,Cornelius,Friendly NPC
+812,120,1435.34,Cathrine Knot,Friendly NPC
+813,120,1437.34,Cathrine Knot,Friendly NPC
+814,120,1507.55,Janna Jarlsson,Friendly NPC
+815,120,1515.34,Janna Jarlsson,Friendly NPC
+816,120,1516.13,Janna Jarlsson,Friendly NPC
+817,120,1517.93,Janna Jarlsson,Friendly NPC
+818,120,1518.94,Janna Jarlsson,Friendly NPC
+819,121,485.79,Giant Rat,Quest Related
+820,121,487.97,Giant Rat,Quest Related
+821,121,490.18,Giant Rat,Quest Related
+822,121,492.40,Giant Rat,Quest Related
+823,121,1670.88,Thomas,Friendly NPC
+824,121,1793.10,Thomas,Friendly NPC
+825,122,363.41,Paul,Friendly NPC
+826,122,379.44,Paul,Friendly NPC
+827,122,441.45,Paul,Friendly NPC
+828,122,1481.80,Ann,Friendly NPC
+829,123,887.83,Giant Rat,Quest Related
+830,123,889.83,Giant Rat,Quest Related
+831,123,892.05,Giant Rat,Quest Related
+832,123,893.46,Giant Rat,Quest Related
+833,123,894.47,Giant Rat,Quest Related
+834,124,270.24,Giant Rat,Quest Related
+835,124,275.04,Giant Rat,Quest Related
+836,124,278.65,Giant Rat,Quest Related
+837,124,283.06,Giant Rat,Quest Related
+838,124,366.50,Mr. Walker,Friendly NPC
+839,124,369.32,Mr. Walker,Friendly NPC
+840,124,482.33,Janna Jarlsson,Friendly NPC
+841,124,732.09,Mayor Walker,Friendly NPC
+842,124,732.68,Mayor Walker,Friendly NPC
+843,124,733.88,Mayor Walker,Friendly NPC
+844,124,735.26,Mayor Walker,Friendly NPC
+845,124,737.09,Mayor Walker,Friendly NPC
+846,124,739.09,Mayor Walker,Friendly NPC
+847,124,741.09,Mayor Walker,Friendly NPC
+848,124,744.49,Mayor Walker,Friendly NPC
+849,124,745.68,Mayor Walker,Friendly NPC
+850,124,746.49,Mayor Walker,Friendly NPC
+851,124,1031.60,Giant Rat,SelfDefense
+852,124,2111.10,Bean,SelfDefense
+853,124,2111.72,Bean,SelfDefense
+854,124,2116.09,Sheriff,Friendly NPC
+855,124,2118.72,Bean,SelfDefense
+856,124,2119.30,Bean,SelfDefense
+857,124,2119.89,Bean,SelfDefense
+858,124,2120.53,Bean,SelfDefense
+859,124,2127.89,Bean,SelfDefense
+860,124,2665.06,Gibbons,SelfDefense
+861,124,2670.29,Cornelius,Friendly NPC
+862,124,2670.88,Charline,Friendly NPC
+863,124,2678.88,Feral Mutant,Friendly NPC
+864,124,2679.68,Cornelius,Friendly NPC
+865,124,2685.68,Charline,Friendly NPC
+866,125,143.80,Mr. Walker,Friendly NPC
+867,125,1792.69,Crank,Quest Related
+868,125,1617.49,Spider,Quest Related
+869,125,1617.77,Spider,Quest Related
+870,125,1618.52,Spider,Quest Related
+871,125,1618.92,Spider,Quest Related
+872,126,154.44,Giant Rat,Quest Related
+873,126,154.85,Giant Rat,Quest Related
+874,126,156.04,Giant Rat,Quest Related
+875,126,157.05,Giant Rat,Quest Related
+876,126,1220.47,Spider,UnMotivated 
+877,126,1220.87,Spider,UnMotivated 
+878,126,1221.28,Spider,UnMotivated 
+879,126,1221.69,Spider,UnMotivated 
+880,126,1222.08,Spider,UnMotivated 
+881,126,1222.48,Spider,UnMotivated 
+882,126,1224.67,Spider,UnMotivated 
+883,126,1225.11,Spider,UnMotivated 
+884,126,1225.87,Spider,UnMotivated 
+885,126,1226.67,Spider,UnMotivated 
+886,126,1227.08,Spider,UnMotivated 
+887,126,1227.69,Spider,UnMotivated 
+888,126,1228.48,Spider,UnMotivated 
+889,126,1228.87,Spider,UnMotivated 
+890,126,1229.28,Spider,UnMotivated 
+891,126,1229.69,Stu,UnMotivated 
+892,126,1230.09,Spider,UnMotivated 
+893,126,1262.00,Stu,UnMotivated 
+894,126,1267.17,Crank,UnMotivated 
+895,126,1267.36,Crank,UnMotivated 
+896,126,1269.51,Crank,UnMotivated 
+897,126,1274.56,Frog,UnMotivated 
+898,126,1278.10,Frog,UnMotivated 
+899,126,1281.73,Wild Bill,UnMotivated 
+900,126,1284.22,Wild Bill,UnMotivated 
+901,126,1751.41,Mel,UnMotivated 
+902,126,1759.17,Mel,UnMotivated 
+903,126,1762.48,Mel,UnMotivated 
+904,126,1869.48,Slater,Quest Related
+905,126,1870.88,Slater,Quest Related
+906,126,1871.51,Slater,Quest Related
+907,126,1872.31,Slater,Quest Related
+908,126,1873.10,Slater,Quest Related
+909,126,1889.19,Slater,Quest Related
+910,126,1889.39,Slater,Quest Related
+911,126,1904.83,Gunny,Quest Related
+912,126,1932.43,Bobby D,Quest Related
+913,126,1944.30,Merlin,Quest Related
+914,126,1971.10,Ray,Quest Related
+915,126,2330.17,Giant Rat,SelfDefense
+916,126,2369.97,Giant Rat,UnMotivated
+917,126,2623.59,Coyote,UnMotivated
+918,126,2643.81,Coyote,UnMotivated
+919,126,2674.47,Coyote,UnMotivated
+920,126,2689.39,Coyote,UnMotivated
+921,126,2692.21,Coyote,UnMotivated
+922,126,2694.96,Coyote,SelfDefense
+923,126,2696.90,Coyote,SelfDefense
+924,127,437.46,Giant Rat,Quest Related
+925,127,439.66,Giant Rat,Quest Related
+926,127,439.87,Giant Rat,Quest Related
+927,127,2810.58,Spider,Quest Related
+928,127,2812.57,Spider,Quest Related
+929,127,2926.34,Spider,Quest Related
+930,127,2927.94,Spider,Quest Related
+931,127,2930.15,Spider,Quest Related
+932,127,2931.34,Spider,Quest Related
+933,127,2931.74,Spider,Quest Related
+934,128,375.00,Mayor Walker,Friendly NPC
+935,128,375.80,Mayor Walker,Friendly NPC
+936,128,377.21,Mayor Walker,Friendly NPC
+937,128,379.21,Mayor Walker,Friendly NPC
+938,128,382.69,Mayor Walker,Friendly NPC
+939,128,384.69,Mayor Walker,Friendly NPC
+940,128,389.09,Mayor Walker,Friendly NPC
+941,128,390.50,Mayor Walker,Friendly NPC
+942,128,391.90,Mayor Walker,Friendly NPC
+943,128,393.70,Mayor Walker,Friendly NPC
+944,128,579.28,Giant Rat,Quest Related
+945,128,580.68,Giant Rat,Quest Related
+946,128,582.47,Giant Rat,Quest Related
+947,128,583.08,Giant Rat,Quest Related
+948,128,584.49,Giant Rat,Quest Related
+949,128,1132.76,Mr. Walker,Friendly NPC
+950,128,1133.36,Mr. Walker,Friendly NPC
+951,128,1374.63,Paul,Friendly NPC
+952,128,1375.23,Paul,Friendly NPC
+953,128,1376.63,Paul,Friendly NPC
+954,128,1377.23,Paul,Friendly NPC
+955,128,1378.03,Paul,Friendly NPC
+956,128,1378.63,Paul,Friendly NPC
+957,128,1379.03,Paul,Friendly NPC
+958,128,1380.44,Paul,Friendly NPC
+959,128,1381.03,Paul,Friendly NPC
+960,128,1381.63,Paul,Friendly NPC
+961,128,1382.23,Paul,Friendly NPC
+962,128,1382.83,Paul,Friendly NPC
+963,128,1383.44,Paul,Friendly NPC
+964,128,1384.03,Paul,Friendly NPC
+965,128,1384.63,Paul,Friendly NPC
+966,128,1385.44,Paul,Friendly NPC
+967,128,1385.83,Paul,Friendly NPC
+968,128,1386.63,Paul,Friendly NPC
+969,128,1387.23,Paul,Friendly NPC
+970,128,1387.83,Paul,Friendly NPC
+971,128,1388.63,Paul,Friendly NPC
+972,128,1389.44,Paul,Friendly NPC
+973,128,1390.03,Paul,Friendly NPC
+974,128,1390.83,Paul,Friendly NPC
+975,128,1391.44,Paul,Friendly NPC
+976,128,1392.03,Paul,Friendly NPC
+977,128,1392.83,Paul,Friendly NPC
+978,128,1393.44,Paul,Friendly NPC
+979,128,1394.83,Paul,Friendly NPC
+980,128,1396.63,Paul,Friendly NPC
+981,128,1398.63,Paul,Friendly NPC
+982,128,1399.23,Paul,Friendly NPC
+983,128,1399.83,Paul,Friendly NPC
+984,128,1400.63,Paul,Friendly NPC
+985,128,1401.23,Paul,Friendly NPC
+986,128,1407.24,Paul,Friendly NPC
+987,128,1408.25,Paul,Friendly NPC
+988,128,1408.83,Paul,Friendly NPC
+989,128,1409.43,Paul,Friendly NPC
+990,128,1410.25,Paul,Friendly NPC
+991,128,1410.83,Paul,Friendly NPC
+992,128,1411.63,Paul,Friendly NPC
+993,128,1412.25,Paul,Friendly NPC
+994,128,1413.03,Paul,Friendly NPC
+995,128,1413.63,Paul,Friendly NPC
+996,128,1414.25,Paul,Friendly NPC
+997,128,1423.05,Paul,Friendly NPC
+998,128,1425.63,Paul,Friendly NPC
+999,128,1426.23,Paul,Friendly NPC
+1000,128,1426.83,Paul,Friendly NPC
+1001,128,1427.63,Paul,Friendly NPC
+1002,128,1428.23,Paul,Friendly NPC
+1003,128,1428.83,Paul,Friendly NPC
+1004,128,1429.63,Paul,Friendly NPC
+1005,128,1430.24,Paul,Friendly NPC
+1006,128,1431.03,Paul,Friendly NPC
+1007,128,1431.63,Paul,Friendly NPC
+1008,128,1432.44,Paul,Friendly NPC
+1009,128,1433.03,Paul,Friendly NPC
+1010,128,1433.83,Paul,Friendly NPC
+1011,128,1434.63,Paul,Friendly NPC
+1012,128,1435.24,Paul,Friendly NPC
+1013,128,1435.83,Paul,Friendly NPC
+1014,128,1436.63,Paul,Friendly NPC
+1015,128,1437.43,Paul,Friendly NPC
+1016,128,1438.43,Paul,Friendly NPC
+1017,128,1453.83,Paul,Friendly NPC
+1018,128,1678.43,Slater,Quest Related
+1019,128,1679.04,Slater,Quest Related
+1020,128,1679.64,Slater,Quest Related
+1021,128,1691.64,Merlin,Quest Related
+1022,128,1692.23,Merlin,Quest Related
+1023,128,1693.64,Merlin,Quest Related
+1024,128,1694.23,Merlin,Quest Related
+1025,128,1695.43,Merlin,Quest Related
+1026,128,1696.84,Merlin,Quest Related
+1027,128,1698.23,Merlin,Quest Related
+1028,128,1969.22,Bobby D,Quest Related
+1029,128,1970.42,Bobby D,Quest Related
+1030,128,1971.22,Bobby D,Quest Related
+1031,128,1972.06,Bobby D,Quest Related
+1032,128,1972.62,Bobby D,Quest Related
+1033,128,1973.22,Bobby D,Quest Related
+1034,128,1974.83,Bobby D,Quest Related
+1035,128,1975.42,Bobby D,Quest Related
+1036,128,1976.06,Bobby D,Quest Related
+1037,128,2015.83,Dough,Quest Related
+1038,128,2016.42,Dough,Quest Related
+1039,128,2235.58,Gunny,Quest Related
+1040,128,2235.78,Gunny,Quest Related
+1041,128,2236.37,Gunny,Quest Related
+1042,128,2236.58,Gunny,Quest Related
+1043,128,2237.18,Gunny,Quest Related
+1044,128,2237.37,Gunny,Quest Related
+1045,128,2237.95,Gunny,Quest Related
+1046,128,2238.37,Gunny,Quest Related
+1047,128,2238.78,Gunny,Quest Related
+1048,128,2536.91,Slater,Quest Related
+1049,128,2537.10,Slater,Quest Related
+1050,128,2537.70,Slater,Quest Related
+1051,128,2537.88,Slater,Quest Related
+1052,128,2538.50,Slater,Quest Related
+1053,128,2539.30,Slater,Quest Related
+1054,128,2539.70,Slater,Quest Related
+1055,128,2540.10,Slater,Quest Related
+1056,128,2540.50,Slater,Quest Related
+1057,128,2540.91,Slater,Quest Related
+1058,128,2541.30,Slater,Quest Related
+1059,128,2541.70,Slater,Quest Related
+1060,128,2542.10,Slater,Quest Related
+1061,128,2543.50,Slater,Quest Related
+1062,128,2544.09,Slater,Quest Related
+1063,128,2544.50,Slater,Quest Related
+1064,128,2544.91,Slater,Quest Related
+1065,128,2545.30,Slater,Quest Related
+1066,128,2546.09,Slater,Quest Related
+1067,128,2546.50,Slater,Quest Related
+1068,128,2546.91,Slater,Quest Related
+1069,128,2547.50,Slater,Quest Related
+1070,128,2548.09,Slater,Quest Related
+1071,128,2548.50,Slater,Quest Related
+1072,128,2548.91,Slater,Quest Related
+1073,128,2549.30,Slater,Quest Related
+1074,128,2549.70,Slater,Quest Related
+1075,128,2550.09,Slater,Quest Related
+1076,128,2550.50,Slater,Quest Related
+1077,128,2550.91,Slater,Quest Related
+1078,128,2551.30,Slater,Quest Related
+1079,128,2551.70,Slater,Quest Related
+1080,128,2553.08,Slater,Quest Related
+1081,128,2725.51,Munz,Quest Related
+1082,128,2725.71,Munz,Quest Related
+1083,128,2726.51,Munz,Quest Related
+1084,128,2727.10,Munz,Quest Related
+1085,128,2727.30,Munz,Quest Related
+1086,128,2727.91,Munz,Quest Related
+1087,128,2728.10,Munz,Quest Related
+1088,128,2728.71,Munz,Quest Related
+1089,128,2730.71,Bean,Quest Related
+1090,128,2731.51,Bean,Quest Related
+1091,128,2732.10,Bean,Quest Related
+1092,128,2732.30,Bean,Quest Related
+1093,128,2768.29,Bean,Quest Related
+1094,128,2768.90,Slater,Quest Related
+1095,128,2769.70,Slater,Quest Related
+1096,128,2770.29,Slater,Quest Related
+1097,128,2770.49,Slater,Quest Related
+1098,128,2771.09,Slater,Quest Related
+1099,128,2771.29,Slater,Quest Related
+1100,128,2771.70,Slater,Quest Related
+1101,128,2772.09,Slater,Quest Related
+1102,128,2772.49,Slater,Quest Related
+1103,128,2772.90,Slater,Quest Related
+1104,128,2773.29,Slater,Quest Related
+1105,128,2773.70,Slater,Quest Related
+1106,128,2774.09,Slater,Quest Related
+1107,128,2774.49,Slater,Quest Related
+1108,128,2775.09,Slater,Quest Related
+1109,128,2775.29,Slater,Quest Related
+1110,128,2775.90,Slater,Quest Related
+1111,128,2776.09,Slater,Quest Related
+1112,128,2776.70,Slater,Quest Related
+1113,128,2776.90,Slater,Quest Related
+1114,128,2777.49,Slater,Quest Related
+1115,128,2777.70,Slater,Quest Related
+1116,128,2778.09,Slater,Quest Related
+1117,128,2778.49,Slater,Quest Related
+1118,128,2779.09,Slater,Quest Related
+1119,130,369.83,Giant Rat,Quest Related
+1120,130,371.63,Giant Rat,Quest Related
+1121,130,373.63,Giant Rat,Quest Related
+1122,130,376.63,Giant Rat,Quest Related
+1123,130,1932.91,Giant Rat,SelfDefense
+1124,130,1947.72,Giant Rat,SelfDefense
+1125,130,1949.31,Giant Rat,SelfDefense
+1126,131,320.78,Paul,Friendly NPC
+1127,131,322.78,Paul,Friendly NPC
+1128,131,324.78,Paul,Friendly NPC
+1129,131,326.59,Paul,Friendly NPC
+1130,131,328.39,Paul,Friendly NPC
+1131,131,330.18,Paul,Friendly NPC
+1132,131,332.18,Paul,Friendly NPC
+1133,131,359.99,Giant Rat,Quest Related
+1134,131,363.59,Giant Rat,Quest Related
+1135,131,365.79,Giant Rat,Quest Related
+1136,131,838.83,Giant Rat,SelfDefense
+1137,131,1257.42,Goat,UnMotivated
+1138,131,1258.42,Goat,UnMotivated
+1139,131,1564.42,Spider,Quest Related
+1140,131,1565.87,Spider,Quest Related
+1141,131,1566.83,Spider,Quest Related
+1142,131,1568.11,Spider,Quest Related
+1143,131,1569.10,Spider,Quest Related
+1144,131,1570.39,Spider,Quest Related
+1145,131,1645.55,Frog,Quest Related
+1146,131,1646.74,Frog,Quest Related
+1147,131,1649.35,Frog,Quest Related
+1148,131,2036.61,Goat,UnMotivated
+1149,131,2038.19,Goat,UnMotivated
+1150,131,2041.59,Goat,UnMotivated
+1151,131,2078.83,Daisy,UnMotivated
+1152,131,2083.42,David Johnson,Friendly NPC
+1153,131,2085.03,David Johnson,Friendly NPC
+1154,131,2086.62,David Johnson,Friendly NPC
+1155,131,2098.03,Bob Barter,Friendly NPC
+1156,131,2099.44,Bob Barter,Friendly NPC
+1157,131,2100.84,Bob Barter,Friendly NPC
+1158,131,2102.25,Bob Barter,Friendly NPC
+1159,131,2104.65,Bob Barter,Friendly NPC
+1160,131,2107.04,Tim Tinker,Friendly NPC
+1161,131,2107.23,Tim Tinker,Friendly NPC
+1162,131,2115.63,Janna Jarlsson,Friendly NPC
+1163,131,2117.23,Janna Jarlsson,Friendly NPC
+1164,131,2118.44,Janna Jarlsson,Friendly NPC
+1165,131,2132.62,Paul,Friendly NPC
+1166,131,2134.03,Paul,Friendly NPC
+1167,131,2135.42,Paul,Friendly NPC
+1168,131,2136.83,Paul,Friendly NPC
+1169,131,2138.03,Paul,Friendly NPC
+1170,131,2139.22,Paul,Friendly NPC
+1171,131,2140.42,Paul,Friendly NPC
+1172,131,2141.62,Paul,Friendly NPC
+1173,131,2145.42,Mr. Walker,Friendly NPC
+1174,131,2146.82,Mr. Walker,Friendly NPC
+1175,131,2148.42,Mayor Walker,Friendly NPC
+1176,131,2149.82,Mayor Walker,Friendly NPC
+1177,131,2151.03,Mayor Walker,Friendly NPC
+1178,131,2153.23,Mayor Walker,Friendly NPC
+1179,131,2154.62,Mayor Walker,Friendly NPC
+1180,131,2156.82,Mayor Walker,Friendly NPC
+1181,131,2158.02,Mayor Walker,Friendly NPC
+1182,131,2160.23,Mayor Walker,Friendly NPC
+1183,131,2181.41,Eric Oxton,Friendly NPC
+1184,131,2183.01,Eric Oxton,Friendly NPC
+1185,131,2185.41,Eric Oxton,Friendly NPC
+1186,131,2187.40,Richard Wood,Friendly NPC
+1187,131,2188.81,Richard Wood,Friendly NPC
+1188,131,2190.01,Richard Wood,Friendly NPC
+1189,131,2205.40,Lara Black,Friendly NPC
+1190,131,2206.40,Alfred R. Fuddington,Friendly NPC
+1191,131,2214.39,Andrew Smith,Friendly NPC
+1192,131,2220.60,Andrew Smith,Friendly NPC
+1193,131,2252.19,Ann,Friendly NPC
+1194,131,2395.95,Coyote,SelfDefense
+1195,131,2397.35,Coyote,SelfDefense
+1196,131,2435.15,Coyote,SelfDefense
+1197,131,2436.78,Coyote,SelfDefense
+1198,131,2445.36,Coyote,SelfDefense
+1199,131,2447.35,Coyote,SelfDefense
+1200,131,2448.75,Coyote,SelfDefense
+1201,131,2451.16,Coyote,SelfDefense
+1202,131,2470.16,Coyote,SelfDefense
+1203,131,2472.94,Coyote,SelfDefense
+1204,131,2474.16,Coyote,SelfDefense
+1205,131,2475.54,Coyote,SelfDefense
+1206,131,2524.54,Coyote,SelfDefense
+1207,131,2525.94,Coyote,SelfDefense
+1208,131,2526.13,Coyote,SelfDefense
+1209,131,2527.34,Coyote,SelfDefense
+1210,132,616.18,Giant Rat,Quest Related
+1211,132,617.58,Giant Rat,Quest Related
+1212,132,618.98,Giant Rat,Quest Related
+1213,132,1290.33,Stu,Quest Related
+1214,132,1290.91,Stu,Quest Related
+1215,132,1305.33,Wild Bill,Quest Related
+1216,132,1213.49,Mayor Walker,Friendly NPC
+1217,132,1215.49,Mayor Walker,Friendly NPC
+1218,132,1217.70,Mayor Walker,Friendly NPC
+1219,132,1218.29,Mayor Walker,Friendly NPC
+1220,132,1219.10,Mayor Walker,Friendly NPC
+1221,132,1219.70,Mayor Walker,Friendly NPC
+1222,132,1221.70,Mayor Walker,Friendly NPC
+1223,132,1311.96,Mayor Walker,Friendly NPC
+1224,132,1313.76,Mayor Walker,Friendly NPC
+1225,132,1315.17,Mayor Walker,Friendly NPC
+1226,132,1865.45,Spider,Quest Related
+1227,132,1867.26,Spider,Quest Related
+1228,132,1879.45,Spider,Quest Related
+1229,132,1885.26,Spider,Quest Related
+1230,132,1906.05,Spider,Quest Related
+1231,132,1906.65,Spider,Quest Related
+1232,132,1907.87,Stu,Quest Related
+1233,132,1908.45,Stu,Quest Related
+1234,132,1909.06,Stu,Quest Related
+1235,132,1909.65,Stu,Quest Related
+1236,132,1910.45,Stu,Quest Related
+1237,132,1911.05,Stu,Quest Related
+1238,132,1911.66,Stu,Quest Related
+1239,132,1912.25,Stu,Quest Related
+1240,132,1913.06,Stu,Quest Related
+1241,132,1913.66,Stu,Quest Related
+1242,132,1983.45,Spider,Quest Related
+1243,132,1996.85,Spider,Quest Related
+1244,132,1999.05,Spider,Quest Related
+1245,132,2003.26,Spider,Quest Related
+1246,132,1979.27,Spider,Quest Related
+1247,132,1980.47,Spider,Quest Related
+1248,132,1991.86,Crank,Quest Related
+1249,132,1997.07,Crank,Quest Related
+1250,132,2013.67,Stu,Quest Related
+1251,132,2022.06,Stu,Quest Related
+1252,132,2024.26,Stu,Quest Related
+1253,133,490.01,Giant Rat,Quest Related
+1254,133,496.02,Giant Rat,Quest Related
+1255,133,498.81,Giant Rat,Quest Related
+1256,134,774.33,Giant Rat,Quest Related
+1257,134,775.33,Giant Rat,Quest Related
+1258,134,776.93,Giant Rat,Quest Related
+1259,134,1241.40,Janna Jarlsson,Friendly NPC
+1260,134,1244.81,Janna Jarlsson,Friendly NPC
+1261,134,1247.41,Janna Jarlsson,Friendly NPC
+1262,134,1249.61,Janna Jarlsson,Friendly NPC
+1263,134,1254.40,Janna Jarlsson,Friendly NPC
+1264,134,1762.09,Slater,Quest Related
+1265,134,1762.67,Slater,Quest Related
+1266,134,1764.09,Slater,Quest Related
+1267,134,1765.47,Slater,Quest Related
+1268,134,1766.09,Slater,Quest Related
+1269,134,1766.67,Slater,Quest Related
+1270,134,1767.30,Slater,Quest Related
+1271,134,1768.47,Slater,Quest Related
+1272,134,1769.67,Slater,Quest Related
+1273,134,1775.67,Slater,Quest Related
+1274,134,2119.35,Gunny,Quest Related
+1275,134,2121.94,Gunny,Quest Related
+1276,134,2128.95,Gunny,Quest Related
+1277,134,2129.55,Gunny,Quest Related
+1278,134,2130.34,Gunny,Quest Related
+1279,134,2131.54,Gunny,Quest Related
+1280,134,2177.90,Bobby D,Quest Related
+1281,134,2178.90,Bobby D,Quest Related
+1282,134,1859.74,Gunny,Quest Related
+1283,134,1860.33,Gunny,Quest Related
+1284,134,1862.15,Gunny,Quest Related
+1285,134,1862.74,Gunny,Quest Related
+1286,134,1863.54,Gunny,Quest Related
+1287,134,1864.33,Gunny,Quest Related
+1288,134,1866.74,Gunny,Quest Related
+1289,134,1935.94,Bobby D,Quest Related
+1290,134,1936.34,Bobby D,Quest Related
+1291,134,1939.53,Bobby D,Quest Related
+1292,134,1939.73,Bobby D,Quest Related
+1293,134,1940.34,Bobby D,Quest Related
+1294,134,1941.94,Bobby D,Quest Related
+1295,134,1942.14,Bobby D,Quest Related
+1296,134,1942.53,Bobby D,Quest Related
+1297,134,1942.94,Bobby D,Quest Related
+1298,134,1943.34,Bobby D,Quest Related
+1299,134,1981.33,Merlin,Quest Related
+1300,134,1981.73,Merlin,Quest Related
+1301,134,1982.12,Merlin,Quest Related
+1302,134,1982.33,Merlin,Quest Related
+1303,134,1982.94,Merlin,Quest Related
+1304,134,1983.12,Merlin,Quest Related
+1305,134,1983.53,Merlin,Quest Related
+1306,134,1983.94,Merlin,Quest Related
+1307,134,1984.33,Merlin,Quest Related
+1308,134,1984.73,Merlin,Quest Related
+1309,134,1985.33,Merlin,Quest Related
+1310,134,1985.73,Merlin,Quest Related
+1311,134,1986.12,Merlin,Quest Related
+1312,134,2228.65,Sheriff,Friendly NPC
+1313,134,2337.89,Sheriff,Friendly NPC
+1314,135,447.21,Paul,Friendly NPC
+1315,135,449.62,Paul,Friendly NPC
+1316,135,452.01,Paul,Friendly NPC
+1317,135,454.82,Paul,Friendly NPC
+1318,135,455.43,Paul,Friendly NPC
+1319,135,456.21,Paul,Friendly NPC
+1320,135,456.82,Paul,Friendly NPC
+1321,135,457.41,Paul,Friendly NPC
+1322,135,458.02,Paul,Friendly NPC
+1323,135,458.61,Paul,Friendly NPC
+1324,135,459.22,Paul,Friendly NPC
+1325,135,459.82,Paul,Friendly NPC
+1326,135,460.42,Paul,Friendly NPC
+1327,135,461.24,Paul,Friendly NPC
+1328,135,461.82,Paul,Friendly NPC
+1329,135,462.43,Paul,Friendly NPC
+1330,135,463.02,Paul,Friendly NPC
+1331,135,463.62,Paul,Friendly NPC
+1332,135,464.21,Paul,Friendly NPC
+1333,135,465.82,Paul,Friendly NPC
+1334,135,466.41,Paul,Friendly NPC
+1335,135,467.02,Paul,Friendly NPC
+1336,135,467.62,Paul,Friendly NPC
+1337,135,468.22,Paul,Friendly NPC
+1338,135,469.22,Paul,Friendly NPC
+1339,135,469.82,Paul,Friendly NPC
+1340,135,470.42,Paul,Friendly NPC
+1341,135,471.01,Paul,Friendly NPC
+1342,135,485.21,Paul,Friendly NPC
+1343,135,486.02,Paul,Friendly NPC
+1344,135,486.62,Paul,Friendly NPC
+1345,135,487.21,Paul,Friendly NPC
+1346,135,487.82,Paul,Friendly NPC
+1347,135,488.42,Paul,Friendly NPC
+1348,135,489.21,Paul,Friendly NPC
+1349,135,489.62,Paul,Friendly NPC
+1350,135,493.21,Paul,Friendly NPC
+1351,135,494.21,Paul,Friendly NPC
+1352,135,494.82,Paul,Friendly NPC
+1353,135,495.42,Paul,Friendly NPC
+1354,135,496.01,Paul,Friendly NPC
+1355,135,496.83,Paul,Friendly NPC
+1356,135,497.41,Paul,Friendly NPC
+1357,135,498.21,Paul,Friendly NPC
+1358,135,498.82,Paul,Friendly NPC
+1359,135,499.41,Paul,Friendly NPC
+1360,135,500.02,Paul,Friendly NPC
+1361,135,500.63,Paul,Friendly NPC
+1362,135,501.41,Paul,Friendly NPC
+1363,135,501.82,Paul,Friendly NPC
+1364,135,502.41,Paul,Friendly NPC
+1365,135,503.02,Paul,Friendly NPC
+1366,135,503.63,Paul,Friendly NPC
+1367,135,504.22,Paul,Friendly NPC
+1368,135,505.02,Paul,Friendly NPC
+1369,135,505.62,Paul,Friendly NPC
+1370,135,508.01,Paul,Friendly NPC
+1371,135,509.62,Paul,Friendly NPC
+1372,135,510.23,Paul,Friendly NPC
+1373,135,510.81,Paul,Friendly NPC
+1374,135,511.42,Paul,Friendly NPC
+1375,135,512.02,Paul,Friendly NPC
+1376,135,513.02,Paul,Friendly NPC
+1377,135,513.81,Paul,Friendly NPC
+1378,135,514.81,Paul,Friendly NPC
+1379,135,515.81,Paul,Friendly NPC
+1380,135,516.81,Paul,Friendly NPC
+1381,135,517.42,Paul,Friendly NPC
+1382,135,518.02,Paul,Friendly NPC
+1383,135,518.62,Paul,Friendly NPC
+1384,135,520.02,Paul,Friendly NPC
+1385,135,520.82,Paul,Friendly NPC
+1386,135,521.42,Paul,Friendly NPC
+1387,135,522.02,Paul,Friendly NPC
+1388,135,522.61,Paul,Friendly NPC
+1389,135,523.22,Paul,Friendly NPC
+1390,135,524.02,Paul,Friendly NPC
+1391,135,542.62,Paul,Friendly NPC
+1392,135,543.21,Paul,Friendly NPC
+1393,135,543.82,Paul,Friendly NPC
+1394,135,544.62,Paul,Friendly NPC
+1395,135,545.22,Paul,Friendly NPC
+1396,135,545.82,Paul,Friendly NPC
+1397,135,546.63,Paul,Friendly NPC
+1398,135,547.22,Paul,Friendly NPC
+1399,135,548.01,Paul,Friendly NPC
+1400,135,548.64,Paul,Friendly NPC
+1401,135,549.22,Paul,Friendly NPC
+1402,135,550.01,Paul,Friendly NPC
+1403,135,550.62,Paul,Friendly NPC
+1404,135,551.42,Paul,Friendly NPC
+1405,135,552.01,Paul,Friendly NPC
+1406,135,552.83,Paul,Friendly NPC
+1407,135,553.64,Paul,Friendly NPC
+1408,135,554.21,Paul,Friendly NPC
+1409,135,557.22,Paul,Friendly NPC
+1410,135,610.21,Mr. Walker,Friendly NPC
+1411,135,614.84,Mr. Walker,Friendly NPC
+1412,135,623.42,Mayor Walker,Friendly NPC
+1413,135,624.62,Mayor Walker,Friendly NPC
+1414,135,628.41,Mayor Walker,Friendly NPC
+1415,135,630.42,Mayor Walker,Friendly NPC
+1416,135,632.42,Mayor Walker,Friendly NPC
+1417,135,633.22,Mayor Walker,Friendly NPC
+1418,135,635.02,Mayor Walker,Friendly NPC
+1419,135,637.02,Mayor Walker,Friendly NPC
+1420,135,639.81,Mayor Walker,Friendly NPC
+1421,135,641.02,Mayor Walker,Friendly NPC
+1422,135,796.81,Tim Tinker,Friendly NPC
+1423,135,798.02,Tim Tinker,Friendly NPC
+1424,135,815.61,Bob Barter,Friendly NPC
+1425,135,816.82,Bob Barter,Friendly NPC
+1426,135,819.22,Bob Barter,Friendly NPC
+1427,135,820.23,Bob Barter,Friendly NPC
+1428,135,822.22,Bob Barter,Friendly NPC
+1429,135,831.22,David Johnson,Friendly NPC
+1430,135,838.62,David Johnson,Friendly NPC
+1431,135,842.22,David Johnson,Friendly NPC
+1432,135,844.22,David Johnson,Friendly NPC
+1433,135,845.63,David Johnson,Friendly NPC
+1434,135,846.01,David Johnson,Friendly NPC
+1435,135,874.02,Cathrine Knot,Friendly NPC
+1436,135,876.02,Cathrine Knot,Friendly NPC
+1437,135,878.42,Cathrine Knot,Friendly NPC
+1438,135,880.42,Cathrine Knot,Friendly NPC
+1439,135,905.64,Alexei,Friendly NPC
+1440,135,1232.83,Eric Oxton,Friendly NPC
+1441,135,1235.63,Eric Oxton,Friendly NPC
+1442,135,1237.63,Eric Oxton,Friendly NPC
+1443,135,1239.63,Eric Oxton,Friendly NPC
+1444,135,1248.43,Richard Wood,Friendly NPC
+1445,135,1249.63,Richard Wood,Friendly NPC
+1446,135,1250.43,Richard Wood,Friendly NPC
+1447,135,1266.02,Lara Black,Friendly NPC
+1448,135,1269.22,Lara Black,Friendly NPC
+1449,135,1271.22,Alfred R. Fuddington,Friendly NPC
+1450,135,1272.43,Alfred R. Fuddington,Friendly NPC
+1451,135,1274.43,Alfred R. Fuddington,Friendly NPC
+1452,135,1275.02,Lara Black,Friendly NPC
+1453,135,1283.63,Alfred R. Fuddington,Friendly NPC
+1454,135,1284.22,Alfred R. Fuddington,Friendly NPC
+1455,135,1286.22,Lara Black,Friendly NPC
+1456,135,1304.45,Andrew Smith,Friendly NPC
+1457,135,1308.04,Andrew Smith,Friendly NPC
+1458,135,1309.84,Andrew Smith,Friendly NPC
+1459,135,1312.04,Andrew Smith,Friendly NPC
+1460,135,1332.63,Janna Jarlsson,Friendly NPC
+1461,135,1335.04,Janna Jarlsson,Friendly NPC
+1462,135,1336.84,Janna Jarlsson,Friendly NPC
+1463,135,1337.43,Janna Jarlsson,Friendly NPC
+1464,135,1337.82,Janna Jarlsson,Friendly NPC
+1465,135,1408.44,Alexei,Friendly NPC
+1466,135,1412.23,Alexei,Friendly NPC
+1467,135,1414.23,Alexei,Friendly NPC
+1468,135,1416.44,Alexei,Friendly NPC
+1469,135,1417.03,Alexei,Friendly NPC
+1470,135,1417.22,Alexei,Friendly NPC
+1471,135,1559.02,Goat,UnMotivated
+1472,135,1562.22,Goat,UnMotivated
+1473,135,1562.81,Goat,SelfDefense
+1474,135,1563.46,Goat,UnMotivated
+1475,135,1564.22,Goat,UnMotivated
+1476,135,1566.81,Goat,SelfDefense
+1477,135,1567.46,Goat,SelfDefense
+1478,135,1701.80,Ann,Friendly NPC
+1479,135,1702.60,Ann,Friendly NPC
+1480,135,1707.00,Ann,Friendly NPC
+1481,135,1897.75,Slater,SelfDefense
+1482,135,1905.63,Slater,UnMotivated 
+1483,135,1906.22,Slater,SelfDefense
+1484,135,1906.83,Slater,SelfDefense
+1485,135,1907.63,Slater,SelfDefense
+1486,135,1908.83,Slater,SelfDefense
+1487,135,1909.43,Slater,SelfDefense
+1488,135,1910.04,Slater,SelfDefense
+1489,135,1961.01,Slater,UnMotivated 
+1490,135,1963.01,Slater,SelfDefense
+1491,135,1963.62,Slater,SelfDefense
+1492,135,1964.21,Slater,SelfDefense
+1493,135,1965.01,Slater,SelfDefense
+1494,135,1965.62,Slater,SelfDefense
+1495,135,1966.21,Slater,SelfDefense
+1496,135,1970.82,Slater,SelfDefense
+1497,135,1933.99,Bobby D,SelfDefense
+1498,135,1934.60,Bobby D,SelfDefense
+1499,135,1935.19,Bobby D,SelfDefense
+1500,135,2400.73,Gunny,SelfDefense
+1501,135,2401.53,Gunny,SelfDefense
+1502,135,2406.93,Gunny,SelfDefense
+1503,135,2407.53,Gunny,SelfDefense
+1504,135,2408.32,Gunny,SelfDefense
+1505,135,2408.93,Gunny,SelfDefense
+1506,135,2409.53,Gunny,SelfDefense
+1507,136,107.33,Paul,Friendly NPC
+1508,136,109.11,Paul,Friendly NPC
+1509,136,109.71,Paul,Friendly NPC
+1510,136,110.50,Paul,Friendly NPC
+1511,136,111.11,Paul,Friendly NPC
+1512,136,112.06,Paul,Friendly NPC
+1513,136,114.68,Paul,Friendly NPC
+1514,136,116.63,Paul,Friendly NPC
+1515,136,117.22,Paul,Friendly NPC
+1516,136,117.91,Paul,Friendly NPC
+1517,136,118.84,Paul,Friendly NPC
+1518,136,120.94,Paul,Friendly NPC
+1519,136,122.97,Paul,Friendly NPC
+1520,136,125.17,Paul,Friendly NPC
+1521,136,127.41,Paul,Friendly NPC
+1522,136,130.44,Paul,Friendly NPC
+1523,136,131.02,Paul,Friendly NPC
+1524,136,131.66,Paul,Friendly NPC
+1525,136,132.47,Paul,Friendly NPC
+1526,136,134.93,Paul,Friendly NPC
+1527,136,137.09,Paul,Friendly NPC
+1528,136,139.70,Paul,Friendly NPC
+1529,136,177.70,Mayor Walker,Friendly NPC
+1530,136,178.31,Mayor Walker,Friendly NPC
+1531,136,178.88,Mayor Walker,Friendly NPC
+1532,136,179.49,Mayor Walker,Friendly NPC
+1533,136,181.49,Mayor Walker,Friendly NPC
+1534,136,182.09,Mayor Walker,Friendly NPC
+1535,136,182.70,Mayor Walker,Friendly NPC
+1536,136,260.09,David Johnson,Friendly NPC
+1537,136,261.09,David Johnson,Friendly NPC
+1538,136,261.70,David Johnson,Friendly NPC
+1539,136,262.29,Daisy,UnMotivated
+1540,136,270.49,David Johnson,Friendly NPC
+1541,136,271.09,David Johnson,Friendly NPC
+1542,136,297.52,Richard Wood,Friendly NPC
+1543,136,300.11,Richard Wood,Friendly NPC
+1544,136,300.90,Richard Wood,Friendly NPC
+1545,136,301.51,Richard Wood,Friendly NPC
+1546,136,302.12,Richard Wood,Friendly NPC
+1547,136,326.71,Lara Black,Friendly NPC
+1548,136,327.31,Alfred R. Fuddington,Friendly NPC
+1549,136,327.92,Lara Black,Friendly NPC
+1550,136,329.10,Lara Black,Friendly NPC
+1551,136,330.31,Lara Black,Friendly NPC
+1552,136,331.11,Alfred R. Fuddington,Friendly NPC
+1553,136,331.90,Alfred R. Fuddington,Friendly NPC
+1554,136,332.31,Alfred R. Fuddington,Friendly NPC
+1555,136,332.70,Alfred R. Fuddington,Friendly NPC
+1556,136,473.34,Andrew Smith,Friendly NPC
+1557,136,473.93,Andrew Smith,Friendly NPC
+1558,136,474.54,Andrew Smith,Friendly NPC
+1559,136,476.34,Andrew Smith,Friendly NPC
+1560,136,514.33,Alexei,Friendly NPC
+1561,136,516.54,Alexei,Friendly NPC
+1562,136,532.70,Alexei,Friendly NPC
+1563,136,539.41,Alexei,Friendly NPC
+1564,136,541.62,Alexei,Friendly NPC
+1565,136,562.07,Alexei,Friendly NPC
+1566,136,562.53,Alexei,Friendly NPC
+1567,136,563.19,Alexei,Friendly NPC
+1568,136,742.42,Eric Oxton,Friendly NPC
+1569,136,744.64,Eric Oxton,Friendly NPC
+1570,136,746.88,Eric Oxton,Friendly NPC
+1571,136,749.12,Eric Oxton,Friendly NPC
+1572,136,749.56,Eric Oxton,Friendly NPC
+1573,136,750.56,Eric Oxton,Friendly NPC
+1574,136,805.00,Thomas,Friendly NPC
+1575,136,806.21,Margaret,Friendly NPC
+1576,136,810.80,Thomas,Friendly NPC
+1577,136,811.40,Thomas,Friendly NPC
+1578,136,812.01,Thomas,Friendly NPC
+1579,136,812.80,Thomas,Friendly NPC
+1580,136,813.40,Thomas,Friendly NPC
+1581,136,899.20,Mayor Walker,Friendly NPC
+1582,136,902.60,Mayor Walker,Friendly NPC
+1583,136,905.20,Mr. Walker,Friendly NPC
+1584,136,905.99,Mr. Walker,Friendly NPC
+1585,136,906.60,Mr. Walker,Friendly NPC
+1586,136,1007.60,Margaret,Friendly NPC
+1587,136,1008.99,Margaret,Friendly NPC
+1588,136,1170.91,Cathrine Knot,Friendly NPC
+1589,136,1210.54,Gibbons,SelfDefense
+1590,136,1217.13,Feral Mutant,Friendly NPC
+1591,136,1217.74,Feral Mutant,Friendly NPC
+1592,136,1206.40,Feral Mutant,Friendly NPC
+1593,136,1206.98,Cornelius,Friendly NPC
+1594,136,1208.18,Feral Mutant,Friendly NPC
+1595,136,1211.77,Feral Mutant,Friendly NPC
+1596,136,1213.19,Feral Mutant,Friendly NPC
+1597,136,1214.78,Feral Mutant,Friendly NPC
+1598,136,1216.19,Gibbons,SelfDefense
+1599,136,1217.18,Gibbons,SelfDefense
+1600,136,1218.59,Charline,Friendly NPC
+1601,136,1220.38,Charline,Friendly NPC
+1602,136,1222.39,Charline,Friendly NPC
+1603,136,1224.19,Charline,Friendly NPC
+1604,136,1224.79,Feral Mutant,Friendly NPC
+1605,136,1225.60,Charline,Friendly NPC
+1606,136,1226.19,Feral Mutant,Friendly NPC
+1607,136,1227.99,Feral Mutant,Friendly NPC
+1608,136,1228.78,Feral Mutant,Friendly NPC
+1609,136,1229.39,Feral Mutant,Friendly NPC
+1610,136,1203.37,Charline,Friendly NPC
+1611,136,1203.98,Charline,Friendly NPC
+1612,136,1212.58,Feral Mutant,Friendly NPC
+1613,136,1214.78,Feral Mutant,Friendly NPC
+1614,136,1216.97,Feral Mutant,Friendly NPC
+1615,136,1204.17,Feral Mutant,Friendly NPC
+1616,136,1206.78,Feral Mutant,Friendly NPC
+1617,136,1208.37,Feral Mutant,Friendly NPC
+1618,136,1210.17,Feral Mutant,Friendly NPC
+1619,136,1214.70,Feral Mutant,Friendly NPC
+1620,136,1282.17,Slater,SelfDefense
+1621,136,1320.00,Bobby D,SelfDefense
+1622,136,1322.51,Bobby D,SelfDefense
+1623,136,1324.81,Bobby D,SelfDefense
+1624,136,1327.36,Bobby D,SelfDefense
+1625,136,1312.98,Gunny,UnMotivated 
+1626,136,1315.29,Gunny,SelfDefense
+1627,136,1322.87,Gunny,SelfDefense
+1628,136,1325.50,Gunny,SelfDefense
+1629,136,1328.00,Gunny,SelfDefense
+1630,136,1330.49,Gunny,SelfDefense
+1631,136,1333.04,Gunny,SelfDefense
+1632,236,227.99,Janna Jarlsson,Friendly NPC
+1633,236,230.74,Janna Jarlsson,Friendly NPC
+1634,236,232.74,Janna Jarlsson,Friendly NPC
+1635,236,234.93,Janna Jarlsson,Friendly NPC
+1636,236,523.27,Gibbons,SelfDefense
+1637,236,528.06,Cornelius,Friendly NPC
+1638,236,528.67,Gibbons,SelfDefense
+1639,236,530.67,Feral Mutant,Friendly NPC
+1640,236,531.27,Gibbons,SelfDefense
+1641,236,533.89,Feral Mutant,Friendly NPC
+1642,236,534.70,Feral Mutant,Friendly NPC
+1643,236,535.27,Feral Mutant,Friendly NPC
+1644,236,535.89,Feral Mutant,Friendly NPC
+1645,236,542.57,Cornelius,Friendly NPC
+1646,236,547.88,Charline,Friendly NPC
+1647,236,551.50,Feral Mutant,Friendly NPC
+1648,236,609.53,Charline,Friendly NPC
+1649,236,611.79,Charline,Friendly NPC
+1650,236,745.46,Bobby D,SelfDefense
+1651,236,746.87,Bobby D,SelfDefense
+1652,236,748.66,Bobby D,SelfDefense
+1653,236,749.26,Bobby D,SelfDefense
+1654,236,750.07,Bobby D,SelfDefense
+1655,236,750.66,Bobby D,SelfDefense
+1656,236,751.26,Bobby D,SelfDefense
+1657,236,720.30,Slater,SelfDefense
+1658,137,1028.84,Giant Rat,Quest Related
+1659,137,1029.25,Giant Rat,Quest Related
+1660,137,1029.84,Giant Rat,Quest Related
+1661,137,1030.25,Giant Rat,Quest Related
+1662,137,2041.37,Spider,Quest Related
+1663,137,2042.37,Spider,Quest Related
+1664,137,2042.57,Spider,Quest Related
+1665,137,2043.17,Spider,Quest Related
+1666,137,2043.37,Spider,Quest Related
+1667,137,2044.57,Spider,Quest Related
+1668,137,2048.38,Spider,Quest Related
+1669,137,2065.97,Spider,Quest Related
+1670,137,2083.75,Spider,Quest Related
+1671,137,2084.75,Crank,Quest Related
+1672,137,2084.96,Spider,Quest Related
+1673,137,2085.55,Spider,Quest Related
+1674,137,2347.86,Stu,Quest Related
+1675,137,2353.37,Stu,Quest Related
+1676,137,2354.66,Stu,Quest Related
+1677,137,2426.06,Stu,Quest Related
+1678,137,2428.10,Stu,Quest Related
+1679,137,2440.25,Stu,Quest Related
+1680,137,2440.72,Stu,Quest Related
+1681,137,2441.22,Stu,Quest Related
+1682,137,2448.67,Stu,Quest Related
+1683,138,170.82,Paul,Friendly NPC
+1684,138,173.62,Paul,Friendly NPC
+1685,138,174.41,Paul,Friendly NPC
+1686,138,175.00,Paul,Friendly NPC
+1687,138,183.01,Paul,Friendly NPC
+1688,138,193.01,Paul,Friendly NPC
+1689,138,193.61,Paul,Friendly NPC
+1690,138,201.82,Paul,Friendly NPC
+1691,138,215.83,Paul,Friendly NPC
+1692,138,229.82,Paul,Friendly NPC
+1693,138,271.83,Paul,Friendly NPC
+1694,138,272.42,Paul,Friendly NPC
+1695,138,273.03,Paul,Friendly NPC
+1696,138,273.63,Paul,Friendly NPC
+1697,138,274.22,Paul,Friendly NPC
+1698,138,274.83,Paul,Friendly NPC
+1699,138,275.43,Paul,Friendly NPC
+1700,138,276.24,Paul,Friendly NPC
+1701,138,276.83,Paul,Friendly NPC
+1702,138,277.42,Paul,Friendly NPC
+1703,138,278.04,Paul,Friendly NPC
+1704,138,278.82,Paul,Friendly NPC
+1705,138,279.43,Paul,Friendly NPC
+1706,138,280.22,Paul,Friendly NPC
+1707,138,280.83,Paul,Friendly NPC
+1708,138,281.42,Paul,Friendly NPC
+1709,138,282.23,Paul,Friendly NPC
+1710,138,282.83,Paul,Friendly NPC
+1711,138,283.43,Paul,Friendly NPC
+1712,138,284.02,Paul,Friendly NPC
+1713,138,284.63,Paul,Friendly NPC
+1714,138,285.23,Paul,Friendly NPC
+1715,138,286.03,Paul,Friendly NPC
+1716,138,286.63,Paul,Friendly NPC
+1717,138,287.23,Paul,Friendly NPC
+1718,138,288.02,Paul,Friendly NPC
+1719,138,288.63,Paul,Friendly NPC
+1720,138,289.22,Paul,Friendly NPC
+1721,138,289.83,Paul,Friendly NPC
+1722,138,290.62,Paul,Friendly NPC
+1723,138,291.23,Paul,Friendly NPC
+1724,138,292.02,Paul,Friendly NPC
+1725,138,292.42,Paul,Friendly NPC
+1726,138,293.22,Paul,Friendly NPC
+1727,138,293.83,Paul,Friendly NPC
+1728,138,294.63,Paul,Friendly NPC
+1729,138,295.22,Paul,Friendly NPC
+1730,138,296.02,Paul,Friendly NPC
+1731,138,296.63,Paul,Friendly NPC
+1732,138,297.22,Paul,Friendly NPC
+1733,138,298.03,Paul,Friendly NPC
+1734,138,298.64,Paul,Friendly NPC
+1735,138,299.42,Paul,Friendly NPC
+1736,138,300.23,Paul,Friendly NPC
+1737,138,300.82,Paul,Friendly NPC
+1738,138,301.63,Paul,Friendly NPC
+1739,138,302.22,Paul,Friendly NPC
+1740,138,302.83,Paul,Friendly NPC
+1741,138,303.43,Paul,Friendly NPC
+1742,138,304.02,Paul,Friendly NPC
+1743,138,304.63,Paul,Friendly NPC
+1744,138,305.43,Paul,Friendly NPC
+1745,138,306.02,Paul,Friendly NPC
+1746,138,307.23,Paul,Friendly NPC
+1747,138,308.63,Paul,Friendly NPC
+1748,138,310.43,Paul,Friendly NPC
+1749,138,311.03,Paul,Friendly NPC
+1750,138,325.02,Paul,Friendly NPC
+1751,138,325.62,Paul,Friendly NPC
+1752,138,326.83,Paul,Friendly NPC
+1753,138,328.42,Paul,Friendly NPC
+1754,138,329.83,Paul,Friendly NPC
+1755,138,330.43,Paul,Friendly NPC
+1756,138,331.03,Paul,Friendly NPC
+1757,138,331.63,Paul,Friendly NPC
+1758,138,332.22,Paul,Friendly NPC
+1759,138,333.04,Paul,Friendly NPC
+1760,138,333.63,Paul,Friendly NPC
+1761,138,334.42,Paul,Friendly NPC
+1762,138,335.84,Paul,Friendly NPC
+1763,138,336.62,Paul,Friendly NPC
+1764,138,338.42,Paul,Friendly NPC
+1765,138,339.03,Paul,Friendly NPC
+1766,138,340.23,Paul,Friendly NPC
+1767,138,341.02,Paul,Friendly NPC
+1768,138,341.63,Paul,Friendly NPC
+1769,138,344.04,Paul,Friendly NPC
+1770,138,344.63,Paul,Friendly NPC
+1771,138,345.44,Paul,Friendly NPC
+1772,138,346.03,Paul,Friendly NPC
+1773,138,346.64,Paul,Friendly NPC
+1774,138,347.44,Paul,Friendly NPC
+1775,138,348.04,Paul,Friendly NPC
+1776,138,348.64,Paul,Friendly NPC
+1777,138,349.83,Paul,Friendly NPC
+1778,138,353.83,Paul,Friendly NPC
+1779,138,359.86,Paul,Friendly NPC
+1780,138,360.45,Paul,Friendly NPC
+1781,138,419.23,Mr. Walker,Friendly NPC
+1782,138,421.43,Mr. Walker,Friendly NPC
+1783,138,423.74,Mr. Walker,Friendly NPC
+1784,138,430.01,Paul,Friendly NPC
+1785,138,434.32,Paul,Friendly NPC
+1786,138,436.57,Paul,Friendly NPC
+1787,138,438.56,Paul,Friendly NPC
+1788,138,440.78,Paul,Friendly NPC
+1789,138,442.99,Paul,Friendly NPC
+1790,138,444.80,Paul,Friendly NPC
+1791,138,445.60,Paul,Friendly NPC
+1792,138,446.99,Paul,Friendly NPC
+1793,138,448.19,Paul,Friendly NPC
+1794,138,450.19,Paul,Friendly NPC
+1795,138,451.61,Paul,Friendly NPC
+1796,138,452.99,Paul,Friendly NPC
+1797,138,453.80,Paul,Friendly NPC
+1798,138,454.39,Paul,Friendly NPC
+1799,138,455.20,Paul,Friendly NPC
+1800,138,456.40,Paul,Friendly NPC
+1801,138,457.59,Paul,Friendly NPC
+1802,138,458.39,Paul,Friendly NPC
+1803,138,459.20,Paul,Friendly NPC
+1804,138,459.79,Paul,Friendly NPC
+1805,138,460.39,Paul,Friendly NPC
+1806,138,460.79,Paul,Friendly NPC
+1807,138,461.59,Paul,Friendly NPC
+1808,138,462.20,Paul,Friendly NPC
+1809,138,464.39,Paul,Friendly NPC
+1810,138,465.18,Paul,Friendly NPC
+1811,138,465.79,Paul,Friendly NPC
+1812,138,466.39,Paul,Friendly NPC
+1813,138,467.00,Paul,Friendly NPC
+1814,138,467.59,Paul,Friendly NPC
+1815,138,468.39,Paul,Friendly NPC
+1816,138,469.19,Paul,Friendly NPC
+1817,138,469.79,Paul,Friendly NPC
+1818,138,470.40,Paul,Friendly NPC
+1819,138,473.79,Paul,Friendly NPC
+1820,138,488.19,Paul,Friendly NPC
+1821,138,488.80,Paul,Friendly NPC
+1822,138,489.59,Paul,Friendly NPC
+1823,138,490.19,Paul,Friendly NPC
+1824,138,490.79,Paul,Friendly NPC
+1825,138,491.40,Paul,Friendly NPC
+1826,138,491.99,Paul,Friendly NPC
+1827,138,492.60,Paul,Friendly NPC
+1828,138,493.39,Paul,Friendly NPC
+1829,138,494.00,Paul,Friendly NPC
+1830,138,494.80,Paul,Friendly NPC
+1831,138,495.39,Paul,Friendly NPC
+1832,138,496.00,Paul,Friendly NPC
+1833,138,496.59,Paul,Friendly NPC
+1834,138,497.39,Paul,Friendly NPC
+1835,138,498.00,Paul,Friendly NPC
+1836,138,498.59,Paul,Friendly NPC
+1837,138,499.40,Paul,Friendly NPC
+1838,138,500.19,Paul,Friendly NPC
+1839,138,500.80,Paul,Friendly NPC
+1840,138,501.60,Paul,Friendly NPC
+1841,138,502.20,Paul,Friendly NPC
+1842,138,502.99,Paul,Friendly NPC
+1843,138,503.59,Paul,Friendly NPC
+1844,138,504.39,Paul,Friendly NPC
+1845,138,505.39,Paul,Friendly NPC
+1846,138,508.39,Paul,Friendly NPC
+1847,138,510.20,Paul,Friendly NPC
+1848,138,511.00,Paul,Friendly NPC
+1849,138,519.79,Paul,Friendly NPC
+1850,138,520.41,Paul,Friendly NPC
+1851,138,530.79,Paul,Friendly NPC
+1852,138,531.40,Paul,Friendly NPC
+1853,138,532.00,Paul,Friendly NPC
+1854,138,532.60,Paul,Friendly NPC
+1855,138,694.48,Mayor Walker,Friendly NPC
+1856,138,695.08,Paul,Friendly NPC
+1857,138,695.69,Paul,Friendly NPC
+1858,138,696.29,Paul,Friendly NPC
+1859,138,696.90,Paul,Friendly NPC
+1860,138,697.69,Paul,Friendly NPC
+1861,138,698.28,Paul,Friendly NPC
+1862,138,698.88,Paul,Friendly NPC
+1863,138,699.69,Mayor Walker,Friendly NPC
+1864,138,700.28,Paul,Friendly NPC
+1865,138,700.89,Mayor Walker,Friendly NPC
+1866,138,706.68,Paul,Friendly NPC
+1867,138,739.29,Mayor Walker,Friendly NPC
+1868,138,739.88,Mayor Walker,Friendly NPC
+1869,138,741.68,Mayor Walker,Friendly NPC
+1870,138,743.50,Mayor Walker,Friendly NPC
+1871,138,745.69,Mayor Walker,Friendly NPC
+1872,138,749.69,Paul,Friendly NPC
+1873,138,817.29,Giant Rat,SelfDefense
+1874,138,818.50,Giant Rat,SelfDefense
+1875,138,820.27,Giant Rat,SelfDefense
+1876,138,859.26,Mayor Walker,Friendly NPC
+1877,138,862.47,Paul,Friendly NPC
+1878,138,863.06,Paul,Friendly NPC
+1879,138,883.27,Paul,Friendly NPC
+1880,138,918.85,Paul,Friendly NPC
+1881,138,919.45,Paul,Friendly NPC
+1882,138,920.05,Paul,Friendly NPC
+1883,138,975.67,David Johnson,Friendly NPC
+1884,138,976.48,David Johnson,Friendly NPC
+1885,138,977.28,David Johnson,Friendly NPC
+1886,138,977.68,David Johnson,Friendly NPC
+1887,138,978.27,Daisy,UnMotivated
+1888,138,978.69,Daisy,UnMotivated
+1889,138,979.47,Daisy,UnMotivated
+1890,138,979.88,Daisy,UnMotivated
+1891,138,1077.30,Eric Oxton,Friendly NPC
+1892,138,1078.50,Eric Oxton,Friendly NPC
+1893,138,1079.50,Eric Oxton,Friendly NPC
+1894,138,1095.12,Richard Wood,Friendly NPC
+1895,138,1095.51,Richard Wood,Friendly NPC
+1896,138,1098.31,Richard Wood,Friendly NPC
+1897,138,1098.73,Richard Wood,Friendly NPC
+1898,138,1099.52,Richard Wood,Friendly NPC
+1899,138,1099.91,Richard Wood,Friendly NPC
+1900,138,1208.54,Spider,Quest Related
+1901,138,1208.95,Spider,Quest Related
+1902,138,1209.55,Spider,Quest Related
+1903,138,1211.75,Spider,Quest Related
+1904,138,1212.15,Spider,Quest Related
+1905,138,1213.15,Stu,Quest Related
+1906,138,1218.16,Stu,Quest Related
+1907,138,1218.55,Stu,Quest Related
+1908,138,1219.34,Stu,Quest Related
+1909,138,1219.56,Spider,Quest Related
+1910,138,1225.74,Stu,Quest Related
+1911,138,1226.15,Stu,Quest Related
+1912,138,1226.96,Stu,Quest Related
+1913,138,1229.74,Spider,Quest Related
+1914,138,1230.15,Spider,Quest Related
+1915,138,1230.96,Spider,Quest Related
+1916,138,1231.35,Spider,Quest Related
+1917,138,1208.96,Frog,Quest Related
+1918,138,1230.16,Wild Bill,Quest Related
+1919,138,1231.16,Stu,Quest Related
+1920,138,1528.52,Spider,Quest Related
+1921,138,1182.33,Ann,Friendly NPC
+1922,138,1182.94,Ann,Friendly NPC
+1923,138,1184.54,Ann,Friendly NPC
+1924,138,1184.73,Ann,Friendly NPC
+1925,138,1214.32,Alfred R. Fuddington,Friendly NPC
+1926,138,1215.72,Alfred R. Fuddington,Friendly NPC
+1927,138,1232.53,Lara Black,Friendly NPC
+1928,138,1233.93,Lara Black,Friendly NPC
+1929,138,1305.93,Paul,Friendly NPC
+1930,138,1306.14,Paul,Friendly NPC
+1931,138,1306.53,Paul,Friendly NPC
+1932,138,1306.93,Paul,Friendly NPC
+1933,138,1307.13,Paul,Friendly NPC
+1934,138,1307.54,Paul,Friendly NPC
+1935,138,1384.35,Paul,Friendly NPC
+1936,138,1384.94,Paul,Friendly NPC
+1937,138,1385.35,Paul,Friendly NPC
+1938,138,1386.14,Paul,Friendly NPC
+1939,138,1386.53,Paul,Friendly NPC
+1940,138,1387.14,Paul,Friendly NPC
+1941,138,1387.54,Paul,Friendly NPC
+1942,138,1388.33,Paul,Friendly NPC
+1943,138,1388.74,Paul,Friendly NPC
+1944,138,1389.34,Paul,Friendly NPC
+1945,138,1389.74,Paul,Friendly NPC
+1946,138,1390.33,Paul,Friendly NPC
+1947,138,1390.74,Paul,Friendly NPC
+1948,138,1391.94,Paul,Friendly NPC
+1949,138,1392.55,Paul,Friendly NPC
+1950,138,1392.94,Paul,Friendly NPC
+1951,138,1444.93,Andrew Smith,Friendly NPC
+1952,138,1445.34,Andrew Smith,Friendly NPC
+1953,138,1445.93,Andrew Smith,Friendly NPC
+1954,138,1446.54,Andrew Smith,Friendly NPC
+1955,138,1594.53,Margaret,Friendly NPC
+1956,138,1595.93,Margaret,Friendly NPC
+1957,138,1621.94,Thomas,Friendly NPC
+1958,138,1625.13,Thomas,Friendly NPC
+1959,138,1661.55,Bob Barter,Friendly NPC
+1960,138,1662.75,Bob Barter,Friendly NPC
+1961,138,1676.75,Tim Tinker,Friendly NPC
+1962,138,1677.15,Tim Tinker,Friendly NPC
+1963,138,1677.75,Tim Tinker,Friendly NPC
+1964,138,1677.95,Tim Tinker,Friendly NPC
+1965,138,1678.76,Tim Tinker,Friendly NPC
+1966,138,1828.94,Spider,Quest Related
+1967,138,1830.35,Spider,Quest Related
+1968,138,1830.74,Spider,Quest Related
+1969,138,1831.35,Spider,Quest Related
+1970,138,1837.55,Stu,Quest Related
+1971,138,1838.95,Stu,Quest Related
+1972,138,1840.15,Stu,Quest Related
+1973,138,1844.54,Spider,Quest Related
+1974,138,1847.74,Spider,Quest Related
+1975,138,1848.18,Spider,Quest Related
+1976,138,1848.95,Spider,Quest Related
+1977,138,1850.18,Spider,Quest Related
+1978,138,1851.18,Spider,Quest Related
+1979,138,1859.74,Frog,Quest Related
+1980,138,1914.93,Crank,Quest Related
+1981,138,1916.32,Crank,Quest Related
+1982,138,1917.53,Crank,Quest Related
+1983,138,1920.14,Crank,Quest Related
+1984,139,288.22,Giant Rat,Quest Related
+1985,139,289.03,Giant Rat,Quest Related
+1986,139,289.82,Giant Rat,Quest Related
+1987,139,291.03,Giant Rat,Quest Related
+1988,139,291.62,Giant Rat,Quest Related
+1989,139,964.78,Coyote,SelfDefense
+1990,139,1036.59,Coyote,SelfDefense
+1991,139,1036.98,Coyote,UnMotivated
+1992,139,1037.59,Coyote,SelfDefense
+1993,139,1037.98,Coyote,SelfDefense
+1994,139,1039.18,Coyote,UnMotivated
+1995,139,1039.79,Coyote,SelfDefense
+1996,139,1040.18,Coyote,SelfDefense
+1997,139,1040.78,Coyote,SelfDefense
+1998,139,1041.19,Coyote,SelfDefense
+1999,139,1042.98,Coyote,SelfDefense
+2000,139,1048.98,Coyote,UnMotivated
+2001,139,1069.17,Coyote,SelfDefense
+2002,139,1069.58,Coyote,SelfDefense
+2003,139,1070.37,Coyote,SelfDefense
+2004,139,1070.58,Coyote,SelfDefense
+2005,139,1071.37,Coyote,SelfDefense
+2006,139,1071.78,Coyote,SelfDefense
+2007,139,1101.18,Coyote,SelfDefense
+2008,139,1101.57,Coyote,SelfDefense
+2009,139,1102.18,Coyote,SelfDefense
+2010,139,1102.58,Coyote,SelfDefense
+2011,139,1103.38,Coyote,UnMotivated
+2012,139,1103.77,Coyote,SelfDefense
+2013,139,1104.38,Coyote,SelfDefense
+2014,139,1104.77,Coyote,SelfDefense
+2015,139,1105.97,Coyote,SelfDefense
+2016,139,1106.58,Coyote,UnMotivated
+2017,139,1106.97,Coyote,SelfDefense
+2018,139,1107.58,Coyote,SelfDefense
+2019,139,1107.97,Coyote,SelfDefense
+2020,139,1109.77,Coyote,SelfDefense
+2021,139,1109.98,Coyote,UnMotivated
+2022,139,1110.77,Coyote,UnMotivated
+2023,139,1110.98,Coyote,UnMotivated
+2024,139,1325.47,Thomas,Friendly NPC
+2025,139,1365.05,Thomas,Friendly NPC
+2026,139,1365.46,Thomas,Friendly NPC
+2027,140,538.60,Giant Rat,Quest Related
+2028,140,542.60,Giant Rat,Quest Related
+2029,140,544.61,Giant Rat,Quest Related
+2030,140,1406.60,Giant Rat,SelfDefense
+2031,140,1442.80,Giant Rat,UnMotivated
+2032,141,174.20,Paul,Friendly NPC
+2033,141,202.42,Paul,Friendly NPC
+2034,141,204.02,Paul,Friendly NPC
+2035,141,207.02,Paul,Friendly NPC
+2036,141,209.02,Paul,Friendly NPC
+2037,141,210.82,Paul,Friendly NPC
+2038,141,211.82,Paul,Friendly NPC
+2039,141,213.23,Paul,Friendly NPC
+2040,141,215.83,Paul,Friendly NPC
+2041,141,234.03,Paul,Friendly NPC
+2042,141,237.03,Paul,Friendly NPC
+2043,141,241.83,Paul,Friendly NPC
+2044,141,1656.46,Paul,Friendly NPC
+2045,141,1657.46,Paul,Friendly NPC
+2046,141,1658.27,Paul,Friendly NPC
+2047,141,1658.87,Paul,Friendly NPC
+2048,141,1659.46,Paul,Friendly NPC
+2049,141,1660.26,Paul,Friendly NPC
+2050,141,1660.87,Paul,Friendly NPC
+2051,141,1661.46,Paul,Friendly NPC
+2052,141,1664.66,Paul,Friendly NPC
+2053,141,1665.26,Paul,Friendly NPC
+2054,141,1666.05,Paul,Friendly NPC
+2055,141,1735.87,Giant Rat,Quest Related
+2056,141,1737.07,Giant Rat,Quest Related
+2057,141,1738.48,Giant Rat,Quest Related
+2058,141,1739.68,Giant Rat,Quest Related
+2059,141,1740.87,Giant Rat,Quest Related
+2060,142,183.80,Mayor Walker,Friendly NPC
+2061,142,217.22,Giant Rat,Quest Related
+2062,142,217.80,Giant Rat,Quest Related
+2063,142,218.61,Giant Rat,Quest Related
+2064,142,220.01,Giant Rat,Quest Related
+2065,142,221.62,Giant Rat,Quest Related
+2066,142,292.58,Mayor Walker,Friendly NPC
+2067,142,293.19,Mayor Walker,Friendly NPC
+2068,142,293.79,Mayor Walker,Friendly NPC
+2069,142,294.40,Mayor Walker,Friendly NPC
+2070,142,294.98,Mayor Walker,Friendly NPC
+2071,142,295.59,Mayor Walker,Friendly NPC
+2072,142,296.39,Mayor Walker,Friendly NPC
+2073,142,668.35,Coyote,SelfDefense
+2074,142,668.94,Coyote,SelfDefense
+2075,142,671.34,Coyote,SelfDefense
+2076,142,674.54,Coyote,SelfDefense
+2077,142,680.75,Coyote,SelfDefense
+2078,142,681.34,Coyote,SelfDefense
+2079,142,683.56,Coyote,SelfDefense
+2080,142,686.54,Coyote,SelfDefense
+2081,142,688.56,Coyote,SelfDefense
+2082,142,746.36,Coyote,SelfDefense
+2083,142,748.56,Coyote,SelfDefense
+2084,142,749.76,Coyote,SelfDefense
+2085,142,751.15,Coyote,SelfDefense
+2086,142,791.14,Coyote,SelfDefense
+2087,142,791.97,Coyote,SelfDefense
+2088,142,793.35,Coyote,SelfDefense
+2089,142,794.58,Coyote,SelfDefense
+2090,142,795.97,Coyote,SelfDefense
+2091,142,797.14,Coyote,SelfDefense
+2092,142,812.14,Coyote,UnMotivated
+2093,142,812.77,Coyote,UnMotivated
+2094,142,813.55,Coyote,UnMotivated
+2095,142,814.14,Coyote,UnMotivated
+2096,142,814.77,Coyote,SelfDefense
+2097,142,815.35,Coyote,UnMotivated
+2098,142,816.14,Coyote,UnMotivated
+2099,142,1624.69,Richard Wood,Friendly NPC
+2100,142,1941.80,David Johnson,Friendly NPC
+2101,142,1942.21,David Johnson,Friendly NPC
+2102,142,1952.03,Daisy,UnMotivated
+2103,144,148.21,Mr. Walker,Friendly NPC
+2104,144,151.83,Mr. Walker,Friendly NPC
+2105,144,152.44,Mr. Walker,Friendly NPC
+2106,144,153.03,Mr. Walker,Friendly NPC
+2107,144,281.47,Mayor Walker,Friendly NPC
+2108,144,721.75,Slater,Quest Related
+2109,144,750.34,Slater,Quest Related
+2110,144,695.77,Slater,Quest Related
+2111,144,697.17,Slater,Quest Related
+2112,144,702.56,Slater,Quest Related
+2113,144,703.17,Slater,Quest Related
+2114,144,703.77,Slater,Quest Related
+2115,144,704.36,Slater,Quest Related
+2116,144,699.36,Slater,Quest Related
+2117,144,700.96,Slater,Quest Related
+2118,144,701.75,Slater,Quest Related
+2119,144,710.77,Bean,Quest Related
+2120,144,711.57,Bean,Quest Related
+2121,144,712.17,Bean,Quest Related
+2122,144,712.77,Bean,Quest Related
+2123,144,713.37,Bean,Quest Related
+2124,144,713.96,Bean,Quest Related
+2125,144,719.37,Sheriff,Friendly NPC
+2126,144,721.77,Sheriff,Friendly NPC
+2127,144,724.57,Sheriff,Friendly NPC
+2128,144,730.57,Sheriff,Friendly NPC
+2129,144,1026.82,Slater,Quest Related
+2130,144,1028.02,Slater,Quest Related
+2131,144,1032.43,Slater,Quest Related
+2132,144,1033.02,Slater,Quest Related
+2133,144,689.97,Bean,Quest Related
+2134,144,690.60,Bean,Quest Related
+2135,144,691.41,Bean,Quest Related
+2136,144,691.97,Bean,Quest Related
+2137,144,692.60,Bean,Quest Related
+2138,144,693.60,Bean,Quest Related
+2139,144,694.17,Bean,Quest Related
+2140,144,710.41,Sheriff,Friendly NPC
+2141,144,713.17,Sheriff,Friendly NPC
+2142,144,692.17,Bean,Quest Related
+2143,144,703.35,Munz,Quest Related
+2144,144,703.97,Munz,Quest Related
+2145,144,709.17,Munz,Quest Related
+2146,144,709.97,Munz,Quest Related
+2147,144,714.77,Munz,Quest Related
+2148,144,716.17,Munz,Quest Related
+2149,144,717.97,Munz,Quest Related
+2150,144,740.35,Slater,Quest Related
+2151,144,741.17,Slater,Quest Related
+2152,144,693.17,Bean,Quest Related
+2153,144,693.78,Bean,Quest Related
+2154,144,694.38,Bean,Quest Related
+2155,144,694.97,Bean,Quest Related
+2156,144,696.17,Munz,Quest Related
+2157,144,697.58,Bean,Quest Related
+2158,144,698.17,Bean,Quest Related
+2159,144,698.97,Bean,Quest Related
+2160,144,885.14,Dough,Quest Related
+2161,144,692.96,Bean,Quest Related
+2162,144,693.57,Bean,Quest Related
+2163,144,694.17,Bean,Quest Related
+2164,144,694.96,Bean,Quest Related
+2165,144,695.57,Bean,Quest Related
+2166,144,696.37,Bean,Quest Related
+2167,144,697.17,Bean,Quest Related
+2168,144,713.96,Munz,Quest Related
+2169,144,714.57,Munz,Quest Related
+2170,144,715.37,Munz,Quest Related
+2171,144,715.96,Munz,Quest Related
+2172,144,716.57,Munz,Quest Related
+2173,144,934.56,Dough,Quest Related
+2174,144,935.15,Dough,Quest Related
+2175,144,968.35,Dough,Quest Related
+2176,144,738.77,Bean,Quest Related
+2177,144,740.77,Bean,Quest Related
+2178,144,741.36,Bean,Quest Related
+2179,144,741.97,Bean,Quest Related
+2180,144,742.77,Bean,Quest Related
+2181,144,743.36,Bean,Quest Related
+2182,144,775.56,Munz,Quest Related
+2183,144,777.97,Munz,Quest Related
+2184,144,780.77,Munz,Quest Related
+2185,144,782.77,Munz,Quest Related
+2186,144,784.97,Munz,Quest Related
+2187,144,786.77,Munz,Quest Related
+2188,144,788.77,Munz,Quest Related
+2189,144,791.36,Munz,Quest Related
+2190,144,794.17,Munz,Quest Related
+2191,144,795.36,Munz,Quest Related
+2192,144,1029.97,Dough,Quest Related
+2193,144,709.78,Bean,Quest Related
+2194,144,710.57,Bean,Quest Related
+2195,144,711.18,Bean,Quest Related
+2196,144,711.78,Bean,Quest Related
+2197,144,712.37,Bean,Quest Related
+2198,144,712.98,Bean,Quest Related
+2199,144,713.57,Bean,Quest Related
+2200,144,758.96,Munz,Quest Related
+2201,145,1529.69,Giant Rat,Quest Related
+2202,145,1533.30,Giant Rat,Quest Related
+2203,145,1533.89,Giant Rat,Quest Related
+2204,145,1534.69,Giant Rat,Quest Related
+2205,145,1535.89,Giant Rat,Quest Related
+2206,146,255.67,Giant Rat,Quest Related
+2207,146,257.48,Giant Rat,Quest Related
+2208,146,258.67,Giant Rat,Quest Related
+2209,146,259.67,Giant Rat,Quest Related
+2210,146,1200.09,Giant Rat,SelfDefense
+2211,146,1207.69,Giant Rat,SelfDefense
+2212,146,2014.91,Coyote,UnMotivated
+2213,146,2017.62,Coyote,UnMotivated
+2214,146,2019.65,Coyote,UnMotivated
+2215,146,2022.45,Coyote,UnMotivated
+2216,146,2023.42,Coyote,UnMotivated
+2217,146,2024.42,Coyote,UnMotivated
+2218,146,2030.93,Coyote,UnMotivated
+2219,146,2047.70,Coyote,UnMotivated
+2220,146,2050.69,Coyote,UnMotivated
+2221,146,2053.75,Coyote,UnMotivated
+2222,146,2060.73,Coyote,UnMotivated
+2223,146,2103.56,Coyote,UnMotivated
+2224,146,2104.02,Coyote,UnMotivated
+2225,146,2114.64,Coyote,UnMotivated
+2226,146,2115.12,Coyote,UnMotivated
+2227,146,2115.61,Coyote,UnMotivated
+2228,146,2117.82,Coyote,UnMotivated
+2229,146,2118.10,Coyote,UnMotivated
+2230,146,2142.87,Coyote,UnMotivated
+2231,146,2145.60,Coyote,UnMotivated
+2232,146,2146.09,Coyote,UnMotivated
+2233,146,2146.59,Coyote,UnMotivated
+2234,146,2146.89,Coyote,UnMotivated
+2235,146,2147.41,Coyote,UnMotivated
+2236,146,2148.41,Coyote,UnMotivated
+2237,146,2152.64,Coyote,UnMotivated
+2238,146,2153.12,Coyote,UnMotivated
+2239,146,2156.60,Coyote,UnMotivated
+2240,146,2156.90,Coyote,UnMotivated
+2241,146,2157.38,Coyote,UnMotivated
+2242,146,2158.37,Coyote,UnMotivated
+2243,146,2158.86,Coyote,UnMotivated
+2244,146,2163.11,Coyote,UnMotivated
+2245,146,2163.59,Coyote,UnMotivated
+2246,146,2166.57,Coyote,UnMotivated
+2247,146,2166.86,Coyote,UnMotivated
+2248,146,2168.39,Coyote,UnMotivated
+2249,146,2172.88,Coyote,SelfDefense
+2250,146,2175.82,Coyote,UnMotivated
+2251,147,566.87,Giant Rat,Quest Related
+2252,147,567.26,Giant Rat,Quest Related
+2253,147,569.27,Giant Rat,Quest Related
+2254,147,572.67,Giant Rat,Quest Related
+2255,147,1939.18,Coyote,SelfDefense
+2256,147,1939.57,Coyote,SelfDefense
+2257,147,1940.98,Coyote,UnMotivated
+2258,147,1941.98,Coyote,UnMotivated
+2259,147,1942.78,Coyote,UnMotivated
+2260,147,1942.97,Coyote,UnMotivated
+2261,147,1944.17,Coyote,UnMotivated
+2262,147,1944.97,Coyote,UnMotivated
+2263,147,1945.97,Coyote,UnMotivated
+2264,147,1946.37,Coyote,UnMotivated
+2265,147,1946.97,Coyote,SelfDefense
+2266,147,1947.38,Coyote,SelfDefense
+2267,147,1947.97,Coyote,UnMotivated
+2268,147,1949.77,Coyote,SelfDefense
+2269,147,1952.38,Coyote,UnMotivated
+2270,147,1952.97,Coyote,UnMotivated
+2271,147,2004.33,Coyote,SelfDefense
+2272,147,2005.53,Coyote,SelfDefense
+2273,147,2071.50,Coyote,SelfDefense
+2274,147,2072.70,Coyote,SelfDefense
+2275,147,2074.10,Coyote,SelfDefense
+2276,147,2076.91,Coyote,UnMotivated
+2277,147,2077.52,Coyote,SelfDefense
+2278,147,2078.28,Coyote,UnMotivated
+2279,147,2079.91,Coyote,SelfDefense
+2280,147,2080.52,Coyote,SelfDefense
+2281,147,2081.91,Coyote,UnMotivated
+2282,147,2082.70,Coyote,UnMotivated
+2283,147,2083.08,Coyote,UnMotivated
+2284,147,2083.70,Coyote,UnMotivated
+2285,147,2084.28,Coyote,SelfDefense
+2286,147,2085.28,Coyote,SelfDefense
+2287,147,2085.91,Coyote,UnMotivated
+2288,147,2086.28,Coyote,UnMotivated
+2289,147,2088.49,Coyote,UnMotivated
+2290,147,2089.90,Coyote,SelfDefense
+2291,147,2092.88,Coyote,SelfDefense
+2292,147,2093.29,Coyote,SelfDefense
+2293,147,2094.68,Coyote,SelfDefense
+2294,147,2099.09,Coyote,UnMotivated
+2295,148,61.38,Paul,Friendly NPC
+2296,148,218.84,Giant Rat,Quest Related
+2297,148,221.62,Giant Rat,Quest Related
+2298,148,223.43,Giant Rat,Quest Related
+2299,148,600.97,Giant Rat,SelfDefense
+2300,148,602.36,Giant Rat,SelfDefense
+2301,148,1069.07,Spider,Quest Related
+2302,148,1070.08,Spider,Quest Related
+2303,148,1071.48,Spider,Quest Related
+2304,148,1074.07,Spider,Quest Related
+2305,148,1074.86,Spider,Quest Related
+2306,148,1075.49,Spider,Quest Related
+2307,148,1076.08,Stu,Quest Related
+2308,148,1076.67,Stu,Quest Related
+2309,148,1077.27,Stu,Quest Related
+2310,148,1078.07,Stu,Quest Related
+2311,148,1078.67,Stu,Quest Related
+2312,148,1079.27,Stu,Quest Related
+2313,148,1080.07,Stu,Quest Related
+2314,148,1080.68,Stu,Quest Related
+2315,148,1081.27,Stu,Quest Related
+2316,148,1081.86,Stu,Quest Related
+2317,148,1232.28,Wild Bill,Quest Related
+2318,148,1856.63,Coyote,SelfDefense
+2319,148,1857.03,Coyote,SelfDefense
+2320,148,1857.83,Coyote,SelfDefense
+2321,148,1858.44,Coyote,SelfDefense
+2322,148,1859.03,Coyote,SelfDefense
+2323,148,1889.62,Coyote,SelfDefense
+2324,148,1890.43,Coyote,SelfDefense
+2325,148,1891.83,Coyote,SelfDefense
+2326,148,1892.43,Coyote,SelfDefense
+2327,148,1893.03,Coyote,SelfDefense
+2328,148,1894.01,Coyote,SelfDefense
+2329,148,1925.22,Coyote,SelfDefense
+2330,148,1926.41,Coyote,SelfDefense
+2331,148,1926.82,Coyote,SelfDefense
+2332,148,1927.43,Coyote,UnMotivated
+2333,148,1935.83,Coyote,UnMotivated
+2334,148,1937.22,Coyote,UnMotivated
+2335,148,1937.62,Coyote,UnMotivated
+2336,148,1938.23,Coyote,UnMotivated
+2337,148,1939.22,Coyote,UnMotivated
+2338,148,1949.02,Coyote,SelfDefense
+2339,148,1951.02,Coyote,UnMotivated
+2340,148,1952.02,Coyote,SelfDefense
+2341,148,1955.01,Coyote,UnMotivated
+2342,148,1955.62,Coyote,UnMotivated
+2343,149,723.64,Giant Rat,Quest Related
+2344,149,725.04,Giant Rat,Quest Related
+2345,149,726.04,Giant Rat,Quest Related
+2346,149,2486.06,Coyote,SelfDefense
+2347,149,2498.45,Coyote,SelfDefense
+2348,149,2500.03,Coyote,SelfDefense
+2349,149,2501.23,Coyote,SelfDefense
+2350,149,2509.44,Coyote,SelfDefense
+2351,149,2531.63,Coyote,SelfDefense
+2352,149,2564.82,Coyote,SelfDefense
+2353,149,2566.81,Coyote,SelfDefense
+2354,149,2567.01,Coyote,SelfDefense
+2355,149,2567.21,Coyote,SelfDefense
+2356,149,2569.04,Coyote,SelfDefense
+2357,149,2571.64,Coyote,SelfDefense
+2358,149,2683.20,Coyote,SelfDefense
+2359,149,2686.61,Coyote,SelfDefense
+2360,149,2689.01,Coyote,SelfDefense
+2361,149,2694.01,Coyote,SelfDefense
+2362,150,245.00,Giant Rat,Quest Related
+2363,150,246.78,Giant Rat,Quest Related
+2364,150,250.19,Giant Rat,Quest Related
+2365,150,1522.77,Giant Rat,SelfDefense
+2366,150,1819.36,Slater,SelfDefense
+2367,150,1819.76,Slater,SelfDefense
+2368,150,1820.56,Slater,SelfDefense
+2369,150,1820.95,Slater,SelfDefense
+2370,150,1821.55,Slater,SelfDefense
+2371,150,1822.76,Slater,SelfDefense
+2372,150,1823.76,Slater,SelfDefense
+2373,150,1949.15,Gunny,UnMotivated 
+2374,150,1949.56,Gunny,UnMotivated 
+2375,150,1949.96,Gunny,UnMotivated 
+2376,150,1950.36,Gunny,UnMotivated 
+2377,150,1950.96,Gunny,UnMotivated 
+2378,150,1951.15,Gunny,UnMotivated 
+2379,150,1951.76,Gunny,UnMotivated 
+2380,150,1952.15,Gunny,UnMotivated 
+2381,150,1952.76,Gunny,UnMotivated 
+2382,150,1952.96,Gunny,UnMotivated 
+2383,150,1953.56,Gunny,UnMotivated 
+2384,150,1960.20,Gunny,UnMotivated 
+2385,150,1960.59,Gunny,UnMotivated 
+2386,150,1960.99,Gunny,UnMotivated 
+2387,150,1961.60,Gunny,UnMotivated 
+2388,150,1962.19,Gunny,UnMotivated 
+2389,150,1962.39,Gunny,UnMotivated 
+2390,150,1962.99,Gunny,UnMotivated 
+2391,150,1963.39,Gunny,UnMotivated 
+2392,150,1963.98,Gunny,UnMotivated 
+2393,150,1964.19,Gunny,UnMotivated 
+2394,150,1964.80,Gunny,UnMotivated 
+2395,150,1965.20,Gunny,UnMotivated 
+2396,150,1965.59,Gunny,UnMotivated 
+2397,150,1965.99,Gunny,UnMotivated 
+2398,150,1966.60,Gunny,UnMotivated 
+2399,150,1967.19,Gunny,UnMotivated 
+2400,150,1967.59,Gunny,UnMotivated 
+2401,150,1992.61,Bobby D,SelfDefense
+2402,150,2065.99,Bobby D,SelfDefense
+2403,150,2067.59,Bobby D,SelfDefense
+2404,150,1797.71,Gunny,SelfDefense
+2405,150,1798.13,Gunny,SelfDefense
+2406,150,1798.72,Gunny,SelfDefense
+2407,150,1799.11,Gunny,SelfDefense
+2408,150,1799.71,Gunny,SelfDefense
+2409,150,1800.11,Gunny,SelfDefense
+2410,150,1800.70,Gunny,SelfDefense
+2411,150,1800.91,Gunny,SelfDefense
+2412,150,1801.52,Gunny,SelfDefense
+2413,150,1801.91,Gunny,SelfDefense
+2414,150,1802.52,Gunny,SelfDefense
+2415,150,1802.91,Gunny,SelfDefense
+2416,150,1804.70,Gunny,SelfDefense
+2417,150,1804.91,Gunny,SelfDefense
+2418,150,1805.51,Gunny,SelfDefense
+2419,150,1805.92,Gunny,SelfDefense
+2420,150,1806.51,Gunny,SelfDefense
+2421,150,1807.51,Gunny,SelfDefense
+2422,150,1807.91,Gunny,SelfDefense
+2423,150,1808.31,Gunny,SelfDefense
+2424,150,1882.50,Bobby D,UnMotivated 
+2425,150,1895.51,Bobby D,UnMotivated 
+2426,150,1896.51,Bobby D,UnMotivated 
+2427,150,1897.10,Bobby D,UnMotivated 
+2428,150,1897.32,Bobby D,UnMotivated 
+2429,150,1897.91,Bobby D,UnMotivated 
+2430,150,1898.11,Bobby D,UnMotivated 
+2431,150,1898.71,Bobby D,UnMotivated 
+2432,150,1902.33,Bobby D,UnMotivated 
+2433,150,1903.12,Bobby D,UnMotivated 
+2434,150,1903.51,Bobby D,UnMotivated 
+2435,150,1904.12,Bobby D,UnMotivated 
+2436,150,1904.52,Bobby D,UnMotivated 
+2437,150,1905.11,Bobby D,UnMotivated 
+2438,150,1905.31,Bobby D,UnMotivated 
+2439,150,1905.91,Bobby D,UnMotivated 
+2440,150,1906.30,Bobby D,UnMotivated 
+2441,150,1906.70,Bobby D,UnMotivated 
+2442,150,1907.10,Bobby D,UnMotivated 
+2443,150,1907.50,Bobby D,UnMotivated 
+2444,150,1969.32,Slater,SelfDefense
+2445,150,1971.30,Slater,SelfDefense
+2446,150,2119.48,Bean,SelfDefense
+2447,150,2119.68,Bean,SelfDefense
+2448,150,2120.68,Bean,SelfDefense
+2449,150,2121.48,Bean,SelfDefense
+2450,150,2121.88,Bean,SelfDefense
+2451,150,2122.29,Bean,SelfDefense
+2452,150,2122.68,Munz,SelfDefense
+2453,151,131.80,Paul,Friendly NPC
+2454,151,156.99,Paul,Friendly NPC
+2455,151,2092.73,Coyote,SelfDefense
+2456,151,2096.32,Coyote,SelfDefense
+2457,151,2100.32,Coyote,SelfDefense
+2458,151,2112.92,Coyote,SelfDefense
+2459,151,2136.11,Coyote,SelfDefense
+2460,151,2139.71,Coyote,SelfDefense
+2461,151,2146.51,Coyote,SelfDefense
+2462,151,2176.11,Coyote,SelfDefense
+2463,151,2176.90,Coyote,SelfDefense
+2464,151,2177.31,Coyote,SelfDefense
+2465,151,2177.72,Coyote,SelfDefense
+2466,151,2260.68,Coyote,SelfDefense
+2467,151,2261.29,Coyote,SelfDefense
+2468,151,2261.89,Coyote,SelfDefense
+2469,151,2262.48,Coyote,SelfDefense
+2470,151,2263.09,Coyote,SelfDefense
+2471,151,2263.89,Coyote,SelfDefense
+2472,151,2264.49,Coyote,SelfDefense
+2473,151,2265.28,Coyote,SelfDefense
+2474,151,2265.89,Coyote,SelfDefense
+2475,151,2270.09,Coyote,SelfDefense
+2476,151,2270.69,Coyote,SelfDefense
+2477,151,2271.28,Coyote,SelfDefense
+2478,151,2271.89,Coyote,SelfDefense
+2479,152,401.56,Giant Rat,Quest Related
+2480,152,404.75,Giant Rat,Quest Related
+2481,152,412.53,Giant Rat,Quest Related
+2482,152,1190.75,Coyote,SelfDefense
+2483,152,1195.94,Coyote,SelfDefense
+2484,152,1196.94,Coyote,SelfDefense
+2485,152,1197.75,Coyote,SelfDefense
+2486,152,1232.41,Coyote,SelfDefense
+2487,152,1234.22,Coyote,SelfDefense
+2488,152,1235.22,Coyote,SelfDefense
+2489,152,1235.61,Coyote,SelfDefense
+2490,152,1236.22,Coyote,SelfDefense
+2491,152,1237.41,Coyote,SelfDefense
+2492,152,1237.81,Coyote,SelfDefense
+2493,152,1253.81,Coyote,SelfDefense
+2494,152,1259.01,Coyote,SelfDefense
+2495,152,1261.21,Coyote,SelfDefense
+2496,152,1262.81,Coyote,SelfDefense
+2497,152,1263.41,Coyote,SelfDefense
+2498,152,1264.02,Coyote,SelfDefense
+2499,152,1265.01,Coyote,SelfDefense
+2500,152,1266.21,Coyote,SelfDefense
+2501,152,1323.22,Coyote,SelfDefense
+2502,152,1323.44,Coyote,SelfDefense
+2503,152,1324.61,Coyote,SelfDefense
+2504,152,1325.22,Coyote,SelfDefense
+2505,152,1325.61,Coyote,SelfDefense
+2506,153,166.06,Paul,Friendly NPC
+2507,153,780.31,Giant Rat,Quest Related
+2508,153,781.12,Giant Rat,Quest Related
+2509,153,781.51,Giant Rat,Quest Related
+2510,153,782.12,Giant Rat,Quest Related
+2511,153,2060.95,Coyote,UnMotivated
+2512,153,2062.32,Coyote,UnMotivated
+2513,153,2063.12,Coyote,UnMotivated
+2514,153,2064.12,Coyote,UnMotivated
+2515,153,2141.51,Coyote,SelfDefense
+2516,153,2142.31,Coyote,SelfDefense
+2517,153,2142.92,Coyote,SelfDefense
+2518,153,2143.31,Coyote,SelfDefense
+2519,153,2143.72,Coyote,SelfDefense
+2520,153,2149.94,Coyote,SelfDefense
+2521,153,2199.87,Coyote,SelfDefense
+2522,153,2200.48,Coyote,SelfDefense
+2523,153,2202.07,Coyote,SelfDefense
+2524,153,2202.68,Coyote,SelfDefense
+2525,153,2216.67,Coyote,UnMotivated
+2526,153,2217.08,Coyote,UnMotivated
+2527,153,2218.10,Coyote,SelfDefense
+2528,153,2218.68,Coyote,SelfDefense
+2529,153,2219.07,Coyote,SelfDefense
+2530,153,2222.67,Coyote,SelfDefense
+2531,153,2223.47,Coyote,SelfDefense
+2532,153,2224.27,Coyote,SelfDefense
+2533,153,2225.67,Coyote,SelfDefense
+2534,153,2225.87,Coyote,SelfDefense
+2535,153,2231.87,Coyote,SelfDefense
+2536,153,2232.08,Coyote,SelfDefense
+2537,153,2232.88,Coyote,SelfDefense
+2538,153,2233.07,Coyote,SelfDefense
+2539,153,2233.47,Coyote,SelfDefense
+2540,153,2236.27,Coyote,UnMotivated
+2541,153,2237.29,Coyote,UnMotivated
+2542,153,2237.66,Coyote,UnMotivated
+2543,153,2237.86,Coyote,UnMotivated
+2544,153,2247.27,Coyote,UnMotivated
+2545,153,2247.67,Coyote,UnMotivated
+2546,153,2248.06,Coyote,UnMotivated
+2547,153,2248.26,Coyote,UnMotivated
+2548,153,2248.67,Coyote,UnMotivated
+2549,153,2249.06,Coyote,UnMotivated
+2550,156,278.18,Giant Rat,Quest Related
+2551,156,279.38,Giant Rat,Quest Related
+2552,156,522.04,Giant Rat,SelfDefense
+2553,156,1206.85,Coyote,SelfDefense
+2554,156,1207.26,Coyote,SelfDefense
+2555,156,1210.46,Coyote,SelfDefense
+2556,156,1210.86,Coyote,SelfDefense
+2557,156,1211.46,Coyote,SelfDefense
+2558,156,1226.85,Coyote,SelfDefense
+2559,156,1228.25,Coyote,SelfDefense
+2560,156,1229.65,Coyote,SelfDefense
+2561,156,1237.27,Coyote,UnMotivated
+2562,156,1237.85,Coyote,SelfDefense
+2563,156,1238.26,Coyote,SelfDefense
+2564,156,1239.66,Coyote,UnMotivated
+2565,156,1240.27,Coyote,SelfDefense
+2566,156,1240.66,Coyote,SelfDefense
+2567,156,1242.46,Coyote,SelfDefense
+2568,156,1242.86,Coyote,UnMotivated
+2569,156,1244.06,Coyote,SelfDefense
+2570,156,1247.45,Coyote,UnMotivated
+2571,156,1248.26,Coyote,UnMotivated
+2572,156,1274.86,Coyote,SelfDefense
+2573,156,1275.86,Coyote,SelfDefense
+2574,156,1276.26,Coyote,SelfDefense
+2575,156,1277.05,Coyote,SelfDefense
+2576,156,1277.46,Coyote,SelfDefense
+2577,157,481.05,Mr. Walker,Friendly NPC
+2578,157,484.26,Mr. Walker,Friendly NPC
+2579,157,511.86,Giant Rat,Quest Related
+2580,157,512.65,Giant Rat,Quest Related
+2581,157,515.27,Giant Rat,Quest Related
+2582,157,516.06,Giant Rat,Quest Related
+2583,157,1437.39,Gibbons,SelfDefense
+2584,157,1438.19,Charline,Friendly NPC
+2585,157,1953.87,Giant Rat,SelfDefense
+2586,157,2254.82,Feral Mutant,Friendly NPC
+2587,157,2255.42,Gibbons,SelfDefense
+2588,157,2256.03,Cornelius,Friendly NPC
+2589,157,2266.02,Charline,Friendly NPC
+2590,157,2268.21,Charline,Friendly NPC
+2591,157,2276.42,Gibbons,SelfDefense
+2592,157,2284.42,Cornelius,Friendly NPC
+2593,157,2340.59,Coyote,SelfDefense
+2594,157,2350.58,Coyote,SelfDefense
+2595,157,2351.78,Coyote,SelfDefense
+2596,157,2352.58,Coyote,SelfDefense
+2597,157,2370.16,Coyote,SelfDefense
+2598,157,2372.56,Coyote,SelfDefense
+2599,157,2372.56,Coyote,SelfDefense
+2600,157,2441.54,Coyote,SelfDefense
+2601,157,2443.94,Coyote,SelfDefense
+2602,157,2463.72,Coyote,SelfDefense
+2603,157,2465.12,Coyote,SelfDefense
+2604,157,2466.91,Coyote,SelfDefense
+2605,157,2468.72,Coyote,SelfDefense
+2606,157,2470.72,Coyote,SelfDefense
+2607,157,2547.48,Coyote,SelfDefense
+2608,157,2548.88,Coyote,SelfDefense
+2609,157,2550.88,Coyote,SelfDefense
+2610,158,353.23,Giant Rat,Quest Related
+2611,158,355.03,Giant Rat,Quest Related
+2612,158,357.64,Giant Rat,Quest Related
+2613,158,359.44,Giant Rat,Quest Related
+2614,158,361.65,Giant Rat,Quest Related
+2615,158,1254.58,Giant Rat,SelfDefense
+2616,158,1256.97,Giant Rat,SelfDefense
+2617,158,1267.76,Giant Rat,UnMotivated
+2618,158,1272.17,Giant Rat,UnMotivated
+2619,158,1273.58,Giant Rat,UnMotivated
+2620,158,1809.01,Gibbons,UnMotivated 
+2621,158,1810.81,Gibbons,UnMotivated 
+2622,158,1933.03,Giant Rat,SelfDefense
+2623,158,1933.44,Giant Rat,SelfDefense
+2624,158,1948.65,Giant Rat,SelfDefense
+2625,158,2300.70,Goat,UnMotivated
+2626,158,2302.10,Goat,UnMotivated
+2627,159,245.17,Giant Rat,Quest Related
+2628,159,245.76,Giant Rat,Quest Related
+2629,159,246.37,Giant Rat,Quest Related
+2630,159,247.56,Giant Rat,Quest Related
+2631,159,335.37,Giant Rat,Quest Related
+2632,159,1793.97,Giant Rat,SelfDefense
+2633,159,2451.06,Crank,Quest Related
+2634,159,2453.26,Spider,Quest Related
+2635,159,2454.86,Stu,Quest Related
+2636,159,2458.46,Stu,Quest Related
+2637,159,2459.46,Crank,Quest Related
+2638,159,2460.66,Crank,Quest Related
+2639,159,2461.06,Crank,Quest Related
+2640,159,2461.45,Crank,Quest Related
+2641,159,2120.18,Ann,Friendly NPC
+2642,159,2205.76,Andrew Smith,Friendly NPC
+2643,159,2209.76,Andrew Smith,Friendly NPC
+2644,160,761.71,Giant Rat,Quest Related
+2645,160,764.51,Giant Rat,Quest Related
+2646,160,765.92,Giant Rat,Quest Related
+2647,160,767.32,Giant Rat,Quest Related
+2648,160,1872.65,Mayor Walker,Friendly NPC
+2649,160,1874.46,Mayor Walker,Friendly NPC
+2650,160,1875.05,Mayor Walker,Friendly NPC
+2651,160,1875.66,Mayor Walker,Friendly NPC
+2652,160,1876.25,Mayor Walker,Friendly NPC
+2653,160,1876.86,Mayor Walker,Friendly NPC
+2654,160,1879.05,Mayor Walker,Friendly NPC
+2655,160,1882.25,Mayor Walker,Friendly NPC
+2656,160,1883.05,Mayor Walker,Friendly NPC
+2657,160,1883.45,Mayor Walker,Friendly NPC
+2658,160,1891.65,Mr. Walker,Friendly NPC
+2659,160,1894.06,Mr. Walker,Friendly NPC
+2660,160,1902.85,Paul,Friendly NPC
+2661,160,1903.45,Paul,Friendly NPC
+2662,160,1904.26,Paul,Friendly NPC
+2663,160,1914.45,Paul,Friendly NPC
+2664,160,1914.86,Paul,Friendly NPC
+2665,160,1915.66,Paul,Friendly NPC
+2666,160,1916.08,Paul,Friendly NPC
+2667,160,1916.66,Paul,Friendly NPC
+2668,160,1917.25,Paul,Friendly NPC
+2669,160,1917.85,Paul,Friendly NPC
+2670,160,1918.25,Paul,Friendly NPC
+2671,160,1918.85,Paul,Friendly NPC
+2672,160,1919.25,Paul,Friendly NPC
+2673,160,1920.05,Paul,Friendly NPC
+2674,160,1920.46,Paul,Friendly NPC
+2675,160,1921.05,Paul,Friendly NPC
+2676,160,1921.66,Paul,Friendly NPC
+2677,160,1922.25,Paul,Friendly NPC
+2678,160,1922.66,Paul,Friendly NPC
+2679,160,1923.25,Paul,Friendly NPC
+2680,160,1923.85,Paul,Friendly NPC
+2681,160,1924.46,Paul,Friendly NPC
+2682,160,1925.06,Paul,Friendly NPC
+2683,160,1925.65,Paul,Friendly NPC
+2684,160,1926.06,Paul,Friendly NPC
+2685,160,1927.25,Paul,Friendly NPC
+2686,160,1928.45,Paul,Friendly NPC
+2687,160,1930.25,Paul,Friendly NPC
+2688,160,1930.65,Paul,Friendly NPC
+2689,160,1931.46,Paul,Friendly NPC
+2690,160,1931.85,Paul,Friendly NPC
+2691,160,1932.46,Paul,Friendly NPC
+2692,160,1933.05,Paul,Friendly NPC
+2693,160,1952.65,Paul,Friendly NPC
+2694,160,1953.85,Paul,Friendly NPC
+2695,160,1957.85,Paul,Friendly NPC
+2696,160,1959.05,Paul,Friendly NPC
+2697,160,1959.86,Paul,Friendly NPC
+2698,160,2051.47,Paul,Friendly NPC
+2699,160,2161.64,Paul,Friendly NPC
+2700,160,2162.64,Paul,Friendly NPC
+2701,160,2632.16,David Johnson,Friendly NPC
+2702,160,2632.36,David Johnson,Friendly NPC
+2703,160,2632.36,David Johnson,Friendly NPC
+2704,160,2638.77,Daisy,UnMotivated
+2705,161,222.49,Paul,Friendly NPC
+2706,161,224.50,Paul,Friendly NPC
+2707,161,231.29,Paul,Friendly NPC
+2708,161,231.90,Paul,Friendly NPC
+2709,161,232.70,Paul,Friendly NPC
+2710,161,233.29,Paul,Friendly NPC
+2711,161,234.11,Paul,Friendly NPC
+2712,161,234.70,Paul,Friendly NPC
+2713,161,235.29,Paul,Friendly NPC
+2714,161,235.90,Paul,Friendly NPC
+2715,161,236.70,Paul,Friendly NPC
+2716,161,237.51,Paul,Friendly NPC
+2717,161,238.11,Paul,Friendly NPC
+2718,161,238.70,Paul,Friendly NPC
+2719,161,239.30,Paul,Friendly NPC
+2720,161,239.90,Paul,Friendly NPC
+2721,161,240.52,Paul,Friendly NPC
+2722,161,241.10,Paul,Friendly NPC
+2723,161,241.90,Paul,Friendly NPC
+2724,161,242.52,Paul,Friendly NPC
+2725,161,243.30,Paul,Friendly NPC
+2726,161,243.90,Paul,Friendly NPC
+2727,161,244.50,Paul,Friendly NPC
+2728,161,245.10,Paul,Friendly NPC
+2729,161,245.69,Paul,Friendly NPC
+2730,161,246.50,Paul,Friendly NPC
+2731,161,247.10,Paul,Friendly NPC
+2732,161,247.69,Paul,Friendly NPC
+2733,161,248.30,Paul,Friendly NPC
+2734,161,249.10,Paul,Friendly NPC
+2735,161,249.71,Paul,Friendly NPC
+2736,161,250.30,Paul,Friendly NPC
+2737,161,251.10,Paul,Friendly NPC
+2738,161,252.30,Paul,Friendly NPC
+2739,161,253.10,Paul,Friendly NPC
+2740,161,253.71,Paul,Friendly NPC
+2741,161,254.30,Paul,Friendly NPC
+2742,161,254.89,Paul,Friendly NPC
+2743,161,255.50,Paul,Friendly NPC
+2744,161,256.50,Paul,Friendly NPC
+2745,161,257.11,Paul,Friendly NPC
+2746,161,257.71,Paul,Friendly NPC
+2747,161,258.30,Paul,Friendly NPC
+2748,161,259.10,Paul,Friendly NPC
+2749,161,259.89,Paul,Friendly NPC
+2750,161,260.50,Paul,Friendly NPC
+2751,161,261.29,Paul,Friendly NPC
+2752,161,261.90,Paul,Friendly NPC
+2753,161,262.70,Paul,Friendly NPC
+2754,161,263.29,Paul,Friendly NPC
+2755,161,263.90,Paul,Friendly NPC
+2756,161,264.50,Paul,Friendly NPC
+2757,161,265.29,Paul,Friendly NPC
+2758,161,266.12,Paul,Friendly NPC
+2759,161,266.70,Paul,Friendly NPC
+2760,161,267.29,Paul,Friendly NPC
+2761,161,267.90,Paul,Friendly NPC
+2762,161,268.70,Paul,Friendly NPC
+2763,161,269.50,Paul,Friendly NPC
+2764,161,270.11,Paul,Friendly NPC
+2765,161,270.70,Paul,Friendly NPC
+2766,161,271.50,Paul,Friendly NPC
+2767,161,272.12,Paul,Friendly NPC
+2768,161,272.70,Paul,Friendly NPC
+2769,161,273.50,Paul,Friendly NPC
+2770,161,273.90,Paul,Friendly NPC
+2771,161,274.70,Paul,Friendly NPC
+2772,161,275.29,Paul,Friendly NPC
+2773,161,276.10,Paul,Friendly NPC
+2774,161,276.71,Paul,Friendly NPC
+2775,161,277.29,Paul,Friendly NPC
+2776,161,282.91,Paul,Friendly NPC
+2777,161,283.50,Paul,Friendly NPC
+2778,161,284.30,Paul,Friendly NPC
+2779,161,284.91,Paul,Friendly NPC
+2780,161,285.50,Paul,Friendly NPC
+2781,161,286.09,Paul,Friendly NPC
+2782,161,286.70,Paul,Friendly NPC
+2783,161,287.50,Paul,Friendly NPC
+2784,161,288.09,Paul,Friendly NPC
+2785,161,288.91,Paul,Friendly NPC
+2786,161,289.50,Paul,Friendly NPC
+2787,161,290.09,Paul,Friendly NPC
+2788,161,290.91,Paul,Friendly NPC
+2789,161,291.50,Paul,Friendly NPC
+2790,161,292.30,Paul,Friendly NPC
+2791,161,292.91,Paul,Friendly NPC
+2792,161,293.50,Paul,Friendly NPC
+2793,161,294.09,Paul,Friendly NPC
+2794,161,294.72,Paul,Friendly NPC
+2795,161,295.49,Paul,Friendly NPC
+2796,161,296.10,Paul,Friendly NPC
+2797,161,296.90,Paul,Friendly NPC
+2798,161,297.49,Paul,Friendly NPC
+2799,161,298.10,Paul,Friendly NPC
+2800,161,298.70,Paul,Friendly NPC
+2801,161,299.70,Paul,Friendly NPC
+2802,161,300.31,Paul,Friendly NPC
+2803,161,300.90,Paul,Friendly NPC
+2804,161,301.49,Paul,Friendly NPC
+2805,161,302.49,Paul,Friendly NPC
+2806,161,303.31,Paul,Friendly NPC
+2807,161,303.90,Paul,Friendly NPC
+2808,161,304.50,Paul,Friendly NPC
+2809,161,305.30,Paul,Friendly NPC
+2810,161,305.90,Paul,Friendly NPC
+2811,161,306.70,Paul,Friendly NPC
+2812,161,307.31,Paul,Friendly NPC
+2813,161,307.90,Paul,Friendly NPC
+2814,161,308.51,Paul,Friendly NPC
+2815,161,309.30,Paul,Friendly NPC
+2816,161,309.90,Paul,Friendly NPC
+2817,161,310.51,Paul,Friendly NPC
+2818,161,311.10,Paul,Friendly NPC
+2819,161,311.70,Paul,Friendly NPC
+2820,161,312.30,Paul,Friendly NPC
+2821,161,312.89,Paul,Friendly NPC
+2822,161,313.70,Paul,Friendly NPC
+2823,161,314.30,Paul,Friendly NPC
+2824,161,314.89,Paul,Friendly NPC
+2825,161,315.50,Paul,Friendly NPC
+2826,161,316.30,Paul,Friendly NPC
+2827,161,316.89,Paul,Friendly NPC
+2828,161,317.50,Paul,Friendly NPC
+2829,161,318.10,Paul,Friendly NPC
+2830,161,318.70,Paul,Friendly NPC
+2831,161,319.30,Paul,Friendly NPC
+2832,161,319.89,Paul,Friendly NPC
+2833,161,320.50,Paul,Friendly NPC
+2834,161,321.29,Paul,Friendly NPC
+2835,161,321.90,Paul,Friendly NPC
+2836,161,322.51,Paul,Friendly NPC
+2837,161,323.09,Paul,Friendly NPC
+2838,161,323.91,Paul,Friendly NPC
+2839,161,324.50,Paul,Friendly NPC
+2840,161,325.10,Paul,Friendly NPC
+2841,161,325.90,Paul,Friendly NPC
+2842,161,326.49,Paul,Friendly NPC
+2843,161,327.10,Paul,Friendly NPC
+2844,161,327.70,Paul,Friendly NPC
+2845,161,328.32,Paul,Friendly NPC
+2846,161,329.10,Paul,Friendly NPC
+2847,161,329.70,Paul,Friendly NPC
+2848,161,330.32,Paul,Friendly NPC
+2849,161,330.90,Paul,Friendly NPC
+2850,161,331.70,Paul,Friendly NPC
+2851,161,332.32,Paul,Friendly NPC
+2852,161,332.90,Paul,Friendly NPC
+2853,161,333.70,Paul,Friendly NPC
+2854,161,334.31,Paul,Friendly NPC
+2855,161,497.93,Paul,Friendly NPC
+2856,161,498.73,Paul,Friendly NPC
+2857,161,896.94,Paul,Friendly NPC
+2858,161,897.53,Paul,Friendly NPC
+2859,161,898.14,Paul,Friendly NPC
+2860,161,898.94,Paul,Friendly NPC
+2861,161,899.53,Paul,Friendly NPC
+2862,161,900.14,Paul,Friendly NPC
+2863,161,900.73,Paul,Friendly NPC
+2864,161,901.34,Paul,Friendly NPC
+2865,161,901.93,Paul,Friendly NPC
+2866,161,902.73,Paul,Friendly NPC
+2867,161,903.52,Paul,Friendly NPC
+2868,161,904.13,Paul,Friendly NPC
+2869,161,904.73,Paul,Friendly NPC
+2870,161,905.34,Paul,Friendly NPC
+2871,161,905.93,Paul,Friendly NPC
+2872,161,906.73,Paul,Friendly NPC
+2873,161,907.52,Paul,Friendly NPC
+2874,161,908.13,Paul,Friendly NPC
+2875,161,908.73,Paul,Friendly NPC
+2876,161,909.52,Paul,Friendly NPC
+2877,161,910.13,Paul,Friendly NPC
+2878,161,910.73,Paul,Friendly NPC
+2879,161,911.34,Paul,Friendly NPC
+2880,161,911.93,Paul,Friendly NPC
+2881,161,912.74,Paul,Friendly NPC
+2882,161,913.33,Paul,Friendly NPC
+2883,161,913.93,Paul,Friendly NPC
+2884,161,962.53,Mr. Walker,Friendly NPC
+2885,161,966.13,Mayor Walker,Friendly NPC
+2886,161,968.13,Mayor Walker,Friendly NPC
+2887,161,969.33,Mayor Walker,Friendly NPC
+2888,161,971.34,Mayor Walker,Friendly NPC
+2889,161,972.73,Mayor Walker,Friendly NPC
+2890,161,975.93,Mayor Walker,Friendly NPC
+2891,161,977.33,Mayor Walker,Friendly NPC
+2892,161,979.75,Mr. Walker,Friendly NPC
+2893,161,983.14,Mayor Walker,Friendly NPC
+2894,161,1006.53,Paul,Friendly NPC
+2895,161,1007.13,Paul,Friendly NPC
+2896,161,1007.94,Paul,Friendly NPC
+2897,161,1008.53,Paul,Friendly NPC
+2898,161,1009.13,Paul,Friendly NPC
+2899,161,1009.74,Paul,Friendly NPC
+2900,161,1010.53,Paul,Friendly NPC
+2901,161,1011.14,Paul,Friendly NPC
+2902,161,1011.73,Paul,Friendly NPC
+2903,161,1012.53,Paul,Friendly NPC
+2904,161,1013.14,Paul,Friendly NPC
+2905,161,1013.73,Paul,Friendly NPC
+2906,161,1242.14,Paul,Friendly NPC
+2907,161,1243.95,Paul,Friendly NPC
+2908,161,1244.74,Paul,Friendly NPC
+2909,161,1245.55,Paul,Friendly NPC
+2910,161,1245.95,Paul,Friendly NPC
+2911,161,1246.74,Paul,Friendly NPC
+2912,161,1247.15,Paul,Friendly NPC
+2913,161,1247.94,Paul,Friendly NPC
+2914,161,1248.35,Paul,Friendly NPC
+2915,161,1249.15,Paul,Friendly NPC
+2916,161,1249.57,Paul,Friendly NPC
+2917,161,1250.34,Paul,Friendly NPC
+2918,161,1250.75,Paul,Friendly NPC
+2919,161,1251.55,Paul,Friendly NPC
+2920,161,1251.95,Paul,Friendly NPC
+2921,161,1252.54,Paul,Friendly NPC
+2922,161,1253.15,Paul,Friendly NPC
+2923,161,1253.95,Paul,Friendly NPC
+2924,161,1254.35,Paul,Friendly NPC
+2925,161,1255.15,Paul,Friendly NPC
+2926,161,1255.55,Paul,Friendly NPC
+2927,161,1256.34,Paul,Friendly NPC
+2928,161,1256.74,Paul,Friendly NPC
+2929,161,1282.35,Giant Rat,Quest Related
+2930,161,1283.95,Giant Rat,Quest Related
+2931,161,1473.55,Paul,Friendly NPC
+2932,161,1474.55,Paul,Friendly NPC
+2933,161,1475.34,Paul,Friendly NPC
+2934,161,1637.76,David Johnson,Friendly NPC
+2935,162,334.54,Giant Rat,Quest Related
+2936,162,339.95,Giant Rat,Quest Related
+2937,162,341.74,Giant Rat,Quest Related
+2938,162,2127.19,Bob Barter,Friendly NPC
+2939,162,2144.96,Bob Barter,Friendly NPC
+2940,162,2240.60,Giant Rat,SelfDefense
+2941,162,2416.52,JD,SelfDefense
+2942,162,2416.52,JD,SelfDefense
+2943,162,2423.72,Bobby D,UnMotivated 
+2944,162,2424.30,Bobby D,SelfDefense
+2945,162,2425.93,Bobby D,SelfDefense
+2946,162,2426.72,Bobby D,SelfDefense
+2947,162,2427.10,Bobby D,SelfDefense
+2948,162,2427.54,Bobby D,SelfDefense
+2949,162,2429.48,Bobby D,SelfDefense
+2950,162,2386.32,Dough,SelfDefense
+2951,162,2386.52,Dough,SelfDefense
+2952,162,2386.52,Dough,SelfDefense
+2953,162,2386.52,Dough,SelfDefense
+2954,162,2389.12,Dough,SelfDefense
+2955,162,2408.32,Collin,UnMotivated 
+2956,162,2408.32,JD,UnMotivated 
+2957,162,2408.32,Bean,SelfDefense
+2958,162,2408.32,Munz,SelfDefense
+2959,162,2408.32,Sara,UnMotivated 
+2960,162,2408.32,Slater,UnMotivated 
+2961,162,2408.32,Ray,UnMotivated 
+2962,162,2424.72,Slater,SelfDefense
+2963,162,2424.91,Slater,SelfDefense
+2964,162,2426.13,Slater,SelfDefense
+2965,162,2396.14,Dough,SelfDefense
+2966,162,2396.14,Collin,UnMotivated 
+2967,162,2396.14,JD,UnMotivated 
+2968,162,2396.14,Bean,SelfDefense
+2969,162,2396.14,Munz,SelfDefense
+2970,162,2396.14,Sara,UnMotivated 
+2971,162,2396.14,Slater,UnMotivated 
+2972,162,2396.14,Ray,UnMotivated 
+2973,162,2402.53,Slater,UnMotivated 
+2974,162,2403.33,Slater,SelfDefense
+2975,162,2403.53,Ray,SelfDefense
+2976,162,2403.94,Ray,SelfDefense
+2977,162,2404.34,Bean,SelfDefense
+2978,164,167.42,Paul,Friendly NPC
+2979,164,176.20,Paul,Friendly NPC
+2980,164,176.81,Paul,Friendly NPC
+2981,164,177.40,Paul,Friendly NPC
+2982,164,180.21,Paul,Friendly NPC
+2983,164,196.82,Paul,Friendly NPC
+2984,164,197.62,Paul,Friendly NPC
+2985,164,198.21,Paul,Friendly NPC
+2986,164,198.82,Paul,Friendly NPC
+2987,164,202.21,Paul,Friendly NPC
+2988,164,203.21,Paul,Friendly NPC
+2989,164,205.21,Paul,Friendly NPC
+2990,164,207.02,Paul,Friendly NPC
+2991,164,207.62,Paul,Friendly NPC
+2992,164,208.21,Paul,Friendly NPC
+2993,164,209.02,Paul,Friendly NPC
+2994,164,209.62,Paul,Friendly NPC
+2995,164,210.21,Paul,Friendly NPC
+2996,164,210.82,Paul,Friendly NPC
+2997,164,211.41,Paul,Friendly NPC
+2998,164,212.04,Paul,Friendly NPC
+2999,164,212.62,Paul,Friendly NPC
+3000,164,213.82,Paul,Friendly NPC
+3001,164,214.62,Paul,Friendly NPC
+3002,164,215.21,Paul,Friendly NPC
+3003,164,215.82,Paul,Friendly NPC
+3004,164,216.41,Paul,Friendly NPC
+3005,164,217.21,Paul,Friendly NPC
+3006,164,217.82,Paul,Friendly NPC
+3007,164,218.41,Paul,Friendly NPC
+3008,164,219.04,Paul,Friendly NPC
+3009,164,219.82,Paul,Friendly NPC
+3010,164,220.41,Paul,Friendly NPC
+3011,164,221.04,Paul,Friendly NPC
+3012,164,228.03,Paul,Friendly NPC
+3013,164,230.22,Paul,Friendly NPC
+3014,164,245.63,Paul,Friendly NPC
+3015,164,251.61,Paul,Friendly NPC
+3016,164,252.41,Paul,Friendly NPC
+3017,164,252.82,Paul,Friendly NPC
+3018,164,253.61,Paul,Friendly NPC
+3019,164,254.23,Paul,Friendly NPC
+3020,164,256.82,Paul,Friendly NPC
+3021,164,270.02,Paul,Friendly NPC
+3022,164,270.62,Paul,Friendly NPC
+3023,164,271.21,Paul,Friendly NPC
+3024,164,272.02,Paul,Friendly NPC
+3025,164,272.62,Paul,Friendly NPC
+3026,164,280.22,Paul,Friendly NPC
+3027,164,280.83,Paul,Friendly NPC
+3028,164,285.81,Paul,Friendly NPC
+3029,164,286.64,Paul,Friendly NPC
+3030,164,287.22,Paul,Friendly NPC
+3031,164,287.81,Paul,Friendly NPC
+3032,164,288.42,Paul,Friendly NPC
+3033,164,289.01,Paul,Friendly NPC
+3034,164,289.62,Paul,Friendly NPC
+3035,164,290.41,Paul,Friendly NPC
+3036,164,299.61,Paul,Friendly NPC
+3037,164,300.42,Paul,Friendly NPC
+3038,164,301.02,Paul,Friendly NPC
+3039,164,301.61,Paul,Friendly NPC
+3040,164,302.22,Paul,Friendly NPC
+3041,164,302.81,Paul,Friendly NPC
+3042,164,303.61,Paul,Friendly NPC
+3043,164,304.44,Paul,Friendly NPC
+3044,164,305.01,Paul,Friendly NPC
+3045,164,305.62,Paul,Friendly NPC
+3046,164,306.22,Paul,Friendly NPC
+3047,164,306.82,Paul,Friendly NPC
+3048,164,316.82,Paul,Friendly NPC
+3049,164,317.42,Paul,Friendly NPC
+3050,164,321.21,Paul,Friendly NPC
+3051,164,321.82,Paul,Friendly NPC
+3052,164,322.42,Paul,Friendly NPC
+3053,164,323.21,Paul,Friendly NPC
+3054,164,714.46,Gibbons,SelfDefense
+3055,164,715.26,Gibbons,SelfDefense
+3056,164,722.65,Charline,Friendly NPC
+3057,164,725.25,Charline,Friendly NPC
+3058,164,727.46,Charline,Friendly NPC
+3059,164,733.06,Charline,Friendly NPC
+3060,164,740.45,Charline,Friendly NPC
+3061,164,1346.92,Feral Mutant,Friendly NPC
+3062,164,1348.50,Feral Mutant,Friendly NPC
+3063,164,1356.90,Cornelius,Friendly NPC
+3064,164,1364.90,Cornelius,Friendly NPC
+3065,164,1668.68,Sara,Quest Related
+3066,164,1669.09,Sara,Quest Related
+3067,164,1670.27,Sara,Quest Related
+3068,164,1649.91,Sara,Quest Related
+3069,164,1651.31,Sara,Quest Related
+3070,164,1652.52,Sara,Quest Related
+3071,164,1653.31,Sara,Quest Related
+3072,164,1645.10,Dough,Quest Related
+3073,164,1649.51,Dough,Quest Related
+3074,164,1647.13,Bobby D,Quest Related
+3075,164,1647.71,Bobby D,Quest Related
+3076,164,1648.13,Bobby D,Quest Related
+3077,164,1648.50,Bobby D,Quest Related
+3078,164,1648.94,Bobby D,Quest Related
+3079,164,1777.71,Gunny,Quest Related
+3080,164,1778.32,Gunny,Quest Related
+3081,164,1778.71,Gunny,Quest Related
+3082,164,1779.12,Gunny,Quest Related
+3083,164,1779.71,Gunny,Quest Related
+3084,164,1779.92,Gunny,Quest Related
+3085,164,1667.10,Slater,Quest Related
+3086,164,1667.91,Slater,Quest Related
+3087,164,1668.30,Slater,Quest Related
+3088,164,1668.70,Slater,Quest Related
+3089,164,1669.11,Slater,Quest Related
+3090,164,1669.50,Dough,Quest Related
+3091,164,1669.91,Dough,Quest Related
+3092,164,1670.30,Slater,Quest Related
+3093,164,1670.70,Slater,Quest Related
+3094,164,1671.30,Slater,Quest Related
+3095,164,1671.50,Slater,Quest Related
+3096,164,1672.11,Slater,Quest Related
+3097,164,1672.50,Slater,Quest Related
+3098,164,1672.91,Slater,Quest Related
+3099,164,1673.30,Slater,Quest Related
+3100,164,1673.91,Slater,Quest Related
+3101,164,1674.30,Slater,Quest Related
+3102,164,1643.52,Slater,Quest Related
+3103,164,1643.89,Slater,Quest Related
+3104,164,1644.13,Slater,Quest Related
+3105,164,1644.69,Slater,Quest Related
+3106,164,1684.52,Merlin,Quest Related
+3107,164,1684.89,Merlin,Quest Related
+3108,164,1685.30,Merlin,Quest Related
+3109,164,1685.72,Merlin,Quest Related
+3110,164,1686.30,Merlin,Quest Related
+3111,164,1686.53,Merlin,Quest Related
+3112,164,1687.10,Merlin,Quest Related
+3113,164,1687.53,Merlin,Quest Related
+3114,164,1731.11,Bobby D,Quest Related
+3115,164,1731.50,Bobby D,Quest Related
+3116,164,1731.90,Bobby D,Quest Related
+3117,164,1732.50,Bobby D,Quest Related
+3118,164,1732.70,Bobby D,Quest Related
+3119,164,1733.29,Bobby D,Quest Related
+3120,164,1733.70,Bobby D,Quest Related
+3121,164,1734.11,Bobby D,Quest Related
+3122,164,1755.72,Munz,Quest Related
+3123,164,1756.11,Munz,Quest Related
+3124,164,1756.52,Munz,Quest Related
+3125,164,1756.92,Munz,Quest Related
+3126,164,1757.31,Munz,Quest Related
+3127,164,1757.72,Munz,Quest Related
+3128,164,1758.52,Munz,Quest Related
+3129,164,1808.31,Dough,Quest Related
+3130,164,1902.74,Dough,Quest Related
+3131,164,1676.16,Bobby D,Quest Related
+3132,164,1677.16,Bobby D,Quest Related
+3133,164,1677.92,Bobby D,Quest Related
+3134,164,1678.35,Bobby D,Quest Related
+3135,164,1705.33,Merlin,Quest Related
+3136,164,1705.69,Merlin,Quest Related
+3137,164,1706.30,Merlin,Quest Related
+3138,164,1706.53,Merlin,Quest Related
+3139,164,1707.10,Merlin,Quest Related
+3140,164,1707.30,Merlin,Quest Related
+3141,165,336.43,Mr. Walker,Friendly NPC
+3142,165,338.64,Mr. Walker,Friendly NPC
+3143,165,716.68,Giant Rat,SelfDefense
+3144,165,717.48,Giant Rat,SelfDefense
+3145,165,718.09,Giant Rat,SelfDefense
+3146,165,720.68,Giant Rat,SelfDefense
+3147,165,722.28,Giant Rat,SelfDefense
+3148,165,1835.69,Munz,Quest Related
+3149,165,1836.49,Munz,Quest Related
+3150,165,1838.49,Munz,Quest Related
+3151,165,2269.78,Giant Rat,SelfDefense
+3152,165,2318.76,Giant Rat,UnMotivated
+3153,165,2319.36,Giant Rat,UnMotivated
+3154,165,2319.96,Giant Rat,UnMotivated
+3155,165,2320.77,Giant Rat,UnMotivated
+3156,165,2321.36,Giant Rat,UnMotivated
+3157,165,2322.17,Giant Rat,UnMotivated
+3158,165,2322.76,Giant Rat,UnMotivated
+3159,165,2323.35,Giant Rat,UnMotivated
+3160,165,2331.36,Giant Rat,SelfDefense
+3161,166,1352.48,Giant Rat,SelfDefense
+3162,166,1352.67,Giant Rat,SelfDefense
+3163,166,320.64,Giant Rat,Quest Related
+3164,166,323.65,Giant Rat,Quest Related
+3165,166,741.38,Spider,Quest Related
+3166,166,741.78,Spider,Quest Related
+3167,166,742.19,Spider,Quest Related
+3168,166,742.98,Spider,Quest Related
+3169,166,743.39,Spider,Quest Related
+3170,166,743.78,Spider,Quest Related
+3171,166,744.20,Spider,Quest Related
+3172,166,744.58,Spider,Quest Related
+3173,166,744.98,Spider,Quest Related
+3174,166,745.58,Spider,Quest Related
+3175,167,322.20,Giant Rat,Quest Related
+3176,167,323.40,Giant Rat,Quest Related
+3177,167,325.40,Giant Rat,Quest Related
+3178,167,326.00,Giant Rat,Quest Related
+3179,167,1866.02,Giant Rat,SelfDefense
+3180,170,505.94,Giant Rat,Quest Related
+3181,170,1393.64,Coyote,SelfDefense
+3182,170,1398.25,Coyote,SelfDefense
+3183,170,1398.25,Coyote,SelfDefense
+3184,170,1401.46,Coyote,SelfDefense
+3185,170,1402.05,Coyote,SelfDefense
+3186,170,1476.24,Coyote,UnMotivated
+3187,170,1477.77,Coyote,UnMotivated
+3188,170,1479.51,Coyote,UnMotivated
+3189,170,1485.42,Coyote,UnMotivated
+3190,170,1488.61,Coyote,UnMotivated
+3191,170,1530.79,Coyote,SelfDefense
+3192,170,1532.79,Coyote,UnMotivated
+3193,170,1533.79,Coyote,SelfDefense
+3194,170,1536.79,Coyote,SelfDefense
+3195,170,1537.41,Coyote,UnMotivated
+3196,170,1537.79,Coyote,UnMotivated
+3197,170,1540.21,Coyote,UnMotivated
+3198,170,1603.18,Coyote,SelfDefense
+3199,170,1603.36,Coyote,SelfDefense
+3200,170,1603.77,Coyote,SelfDefense
+3201,170,1738.35,Gibbons,UnMotivated 
+3202,170,1738.57,Gibbons,UnMotivated 
+3203,170,1742.16,Charline,Friendly NPC
+3204,170,1743.90,Charline,Friendly NPC
+3205,170,1759.38,Cornelius,Friendly NPC
+3206,170,1813.38,Feral Mutant,Friendly NPC
+3207,170,1813.38,Feral Mutant,Friendly NPC
+3208,170,1813.38,Feral Mutant,Friendly NPC
+3209,170,1815.39,Charline,Friendly NPC
+3210,170,1817.78,Feral Mutant,Friendly NPC
+3211,170,1819.17,Feral Mutant,Friendly NPC
+3212,171,628.73,Giant Rat,Quest Related
+3213,171,629.92,Giant Rat,Quest Related
+3214,171,630.93,Giant Rat,Quest Related
+3215,171,1212.28,Giant Rat,SelfDefense
+3216,173,814.38,Giant Rat,Quest Related
+3217,173,815.57,Giant Rat,Quest Related
+3218,173,816.98,Giant Rat,Quest Related
+3219,173,1951.16,Spider,UnMotivated 
+3220,173,1951.96,Spider,UnMotivated 
+3221,173,1952.55,Spider,UnMotivated 
+3222,173,1952.76,Spider,UnMotivated 
+3223,173,1953.16,Spider,UnMotivated 
+3224,173,1954.16,Spider,UnMotivated 
+3225,173,1954.55,Spider,UnMotivated 
+3226,173,1956.40,Spider,UnMotivated 
+3227,173,1956.76,Spider,UnMotivated 
+3228,173,1957.16,Spider,UnMotivated 
+3229,173,1957.40,Spider,UnMotivated 
+3230,173,1958.16,Spider,UnMotivated 
+3231,173,1960.36,Spider,UnMotivated 
+3232,173,1988.41,Stu,UnMotivated 
+3233,173,1990.41,Stu,UnMotivated 
+3234,173,1997.41,Crank,UnMotivated 
+3235,173,2002.21,Frog,UnMotivated 
+3236,173,2010.80,Wild Bill,UnMotivated 
+3237,173,2195.45,Giant Rat,SelfDefense
+3238,173,2409.76,Slater,Quest Related
+3239,173,2443.98,Slater,Quest Related
+3240,173,2444.38,Slater,Quest Related
+3241,173,2445.59,Slater,Quest Related
+3242,173,2446.18,Slater,Quest Related
+3243,173,2446.59,Slater,Quest Related
+3244,173,2447.38,Slater,Quest Related
+3245,173,2447.79,Slater,Quest Related
+3246,174,894.95,Giant Rat,Quest Related
+3247,174,896.74,Giant Rat,Quest Related
+3248,174,898.14,Giant Rat,Quest Related
+3249,174,1953.70,Giant Rat,SelfDefense
+3250,174,1955.70,Giant Rat,SelfDefense
+3251,174,1967.90,Giant Rat,UnMotivated
+3252,174,1968.29,Giant Rat,UnMotivated
+3253,174,1968.70,Giant Rat,UnMotivated
+3254,174,1969.11,Giant Rat,UnMotivated
+3255,174,1978.90,Giant Rat,SelfDefense
+3256,174,1979.29,Giant Rat,SelfDefense
+3257,174,2187.55,Giant Rat,SelfDefense
+3258,174,2188.75,Giant Rat,SelfDefense
+3259,175,1221.47,Gunny,SelfDefense
+3260,176,421.06,Giant Rat,Quest Related
+3261,176,423.27,Giant Rat,Quest Related
+3262,176,423.66,Giant Rat,Quest Related
+3263,176,1145.81,Spider,Quest Related
+3264,176,1146.22,Spider,Quest Related
+3265,176,1147.61,Spider,Quest Related
+3266,176,1161.21,Stu,Quest Related
+3267,176,1161.62,Stu,Quest Related
+3268,176,1162.01,Stu,Quest Related
+3269,176,1163.42,Spider,Quest Related
+3270,176,1176.62,Spider,Quest Related
+3271,176,1177.21,Spider,Quest Related
+3272,176,1177.42,Spider,Quest Related
+3273,176,1190.61,Spider,Quest Related
+3274,176,1247.82,Spider,Quest Related
+3275,176,1248.03,Spider,Quest Related
+3276,176,1098.62,Spider,Quest Related
+3277,176,1099.65,Spider,Quest Related
+3278,176,1100.02,Spider,Quest Related
+3279,176,1100.44,Spider,Quest Related
+3280,176,1100.82,Spider,Quest Related
+3281,176,1101.02,Spider,Quest Related
+3282,176,1101.22,Spider,Quest Related
+3283,176,1101.65,Spider,Quest Related
+3284,176,1101.82,Spider,Quest Related
+3285,176,1102.22,Spider,Quest Related
+3286,176,1102.44,Spider,Quest Related
+3287,176,1102.65,Spider,Quest Related
+3288,176,1103.02,Spider,Quest Related
+3289,176,1103.22,Spider,Quest Related
+3290,176,1103.65,Spider,Quest Related
+3291,176,2134.69,Giant Rat,SelfDefense
+3292,176,2138.47,Giant Rat,SelfDefense
+3293,176,2141.08,Giant Rat,UnMotivated
+3294,177,196.95,Paul,Friendly NPC
+3295,177,204.95,Paul,Friendly NPC
+3296,177,205.56,Paul,Friendly NPC
+3297,177,206.15,Paul,Friendly NPC
+3298,177,206.76,Paul,Friendly NPC
+3299,177,207.56,Paul,Friendly NPC
+3300,177,208.15,Paul,Friendly NPC
+3301,177,208.95,Paul,Friendly NPC
+3302,177,209.56,Paul,Friendly NPC
+3303,177,210.15,Paul,Friendly NPC
+3304,177,212.15,Paul,Friendly NPC
+3305,177,212.76,Paul,Friendly NPC
+3306,177,213.35,Paul,Friendly NPC
+3307,177,213.95,Paul,Friendly NPC
+3308,177,215.56,Paul,Friendly NPC
+3309,177,218.35,Paul,Friendly NPC
+3310,177,220.35,Paul,Friendly NPC
+3311,177,220.95,Paul,Friendly NPC
+3312,177,221.56,Paul,Friendly NPC
+3313,177,222.35,Paul,Friendly NPC
+3314,177,222.95,Paul,Friendly NPC
+3315,177,223.56,Paul,Friendly NPC
+3316,177,224.15,Paul,Friendly NPC
+3317,177,226.35,Paul,Friendly NPC
+3318,177,226.95,Paul,Friendly NPC
+3319,177,228.15,Paul,Friendly NPC
+3320,177,228.76,Paul,Friendly NPC
+3321,177,230.15,Paul,Friendly NPC
+3322,177,230.95,Paul,Friendly NPC
+3323,177,231.56,Paul,Friendly NPC
+3324,177,232.35,Paul,Friendly NPC
+3325,177,232.95,Paul,Friendly NPC
+3326,177,233.56,Paul,Friendly NPC
+3327,177,234.15,Paul,Friendly NPC
+3328,177,234.95,Paul,Friendly NPC
+3329,177,235.56,Paul,Friendly NPC
+3330,177,236.56,Paul,Friendly NPC
+3331,177,237.35,Paul,Friendly NPC
+3332,177,237.95,Paul,Friendly NPC
+3333,177,238.56,Paul,Friendly NPC
+3334,177,239.15,Paul,Friendly NPC
+3335,177,239.76,Paul,Friendly NPC
+3336,177,240.56,Paul,Friendly NPC
+3337,177,245.56,Paul,Friendly NPC
+3338,177,246.15,Paul,Friendly NPC
+3339,177,246.95,Paul,Friendly NPC
+3340,177,247.56,Paul,Friendly NPC
+3341,177,253.15,Paul,Friendly NPC
+3342,177,253.95,Paul,Friendly NPC
+3343,177,254.56,Paul,Friendly NPC
+3344,178,520.55,Giant Rat,Quest Related
+3345,178,523.75,Giant Rat,Quest Related
+3346,178,526.36,Giant Rat,Quest Related
+3347,178,528.55,Giant Rat,Quest Related
+3348,178,530.36,Giant Rat,Quest Related
+3349,178,1427.83,Coyote,SelfDefense
+3350,178,1428.22,Coyote,SelfDefense
+3351,178,1429.04,Coyote,SelfDefense
+3352,178,1429.43,Coyote,SelfDefense
+3353,178,1430.04,Coyote,SelfDefense
+3354,178,1431.04,Coyote,SelfDefense
+3355,178,1431.43,Coyote,SelfDefense
+3356,178,1433.22,Coyote,SelfDefense
+3357,178,1435.63,Coyote,SelfDefense
+3358,178,1436.04,Coyote,SelfDefense
+3359,178,1437.04,Coyote,SelfDefense
+3360,178,1438.04,Coyote,SelfDefense
+3361,178,1476.45,Coyote,SelfDefense
+3362,178,1477.03,Coyote,SelfDefense
+3363,178,1478.83,Coyote,SelfDefense
+3364,178,1479.23,Coyote,SelfDefense
+3365,178,1480.03,Coyote,SelfDefense
+3366,178,1480.47,Coyote,SelfDefense
+3367,178,1502.65,Coyote,SelfDefense
+3368,178,1503.03,Coyote,SelfDefense
+3369,178,1506.85,Coyote,SelfDefense
+3370,178,1507.26,Coyote,SelfDefense
+3371,178,1508.23,Coyote,SelfDefense
+3372,178,1510.26,Coyote,SelfDefense
+3373,178,1522.45,Coyote,SelfDefense
+3374,178,1522.85,Coyote,SelfDefense
+3375,178,1523.65,Coyote,SelfDefense
+3376,178,1524.03,Coyote,SelfDefense
+3377,179,836.86,Giant Rat,Quest Related
+3378,179,838.25,Giant Rat,Quest Related
+3379,179,840.06,Giant Rat,Quest Related
+3380,179,840.66,Giant Rat,Quest Related
+3381,179,841.25,Giant Rat,Quest Related
+3382,180,648.00,Giant Rat,Quest Related
+3383,180,649.21,Giant Rat,Quest Related
+3384,180,1040.57,Goat,UnMotivated
+3385,180,2453.43,Stu,Quest Related
+3386,180,2453.44,Stu,Quest Related
+3387,180,2456.96,Spider,Quest Related
+3388,180,2456.98,Spider,Quest Related
+3389,180,2460.13,Wild Bill,Quest Related
+3390,180,2462.08,Wild Bill,Quest Related
+3391,180,2462.58,Frog,Quest Related
+3392,180,2463.15,Frog,Quest Related
+3393,181,1347.35,Margaret,Friendly NPC
+3394,181,1350.35,Margaret,Friendly NPC
+3395,181,1352.15,Margaret,Friendly NPC
+3396,181,1355.94,Margaret,Friendly NPC
+3397,181,1356.52,Margaret,Friendly NPC
+3398,181,1884.29,Tim Tinker,Friendly NPC
+3399,181,1887.09,Tim Tinker,Friendly NPC
+3400,191,473.79,Giant Rat,Quest Related
+3401,191,490.99,Giant Rat,Quest Related
+3402,191,491.79,Giant Rat,Quest Related
+3403,191,492.40,Giant Rat,Quest Related
+3404,191,493.58,Giant Rat,Quest Related
+3405,191,1989.31,Thomas,Friendly NPC
+3406,191,2050.03,Thomas,Friendly NPC
