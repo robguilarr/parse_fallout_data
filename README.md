@@ -3,7 +3,7 @@
 Repository with a demonstration about how to parse messy txt files from a telemetry system of Fall Out New Vegas
 
 <p align="center">
- <img width="50%" height="50%" src="https://github.com/robguilarr/parse_fallout_data/blob/master/Images/vault-boy.png">
+ <img width="25%" height="25%" src="https://github.com/robguilarr/parse_fallout_data/blob/master/Images/vault-boy.png">
 </p>
 
 
