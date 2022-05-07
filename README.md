@@ -2,6 +2,8 @@
 
 Repository with a demonstration about how to parse messy txt files from a telemetry system of Fall Out New Vegas
 
+Access the ETL simulation at the <a href="https://github.com/robguilarr/parse_fallout_data/blob/master/parse_actions_notebook.ipynb">Jupyter Notebook</a>
+
 <p align="center">
  <img width="25%" height="25%" src="https://github.com/robguilarr/parse_fallout_data/blob/master/Images/vault-boy.png">
 </p>
